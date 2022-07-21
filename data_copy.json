@@ -1,0 +1,4640 @@
+[
+  {
+    "name": "Cherry Tomato",
+    "quantity": "200 g",
+    "discounted_price": "85",
+    "actual_price": "98"
+  },
+  {
+    "name": "Onion",
+    "quantity": "1 kg",
+    "discounted_price": "27",
+    "actual_price": "31"
+  },
+  {
+    "name": "Lady Finger",
+    "quantity": "250 g",
+    "discounted_price": "13",
+    "actual_price": "16"
+  },
+  {
+    "name": "Bitter Gourd",
+    "quantity": "250 g - 300 g",
+    "discounted_price": "20",
+    "actual_price": "26"
+  },
+  {
+    "name": "Potato",
+    "quantity": "1 kg",
+    "discounted_price": "27",
+    "actual_price": "35"
+  },
+  {
+    "name": "Baby Potato",
+    "quantity": "500 g",
+    "discounted_price": "18",
+    "actual_price": "20"
+  },
+  {
+    "name": "Desi Tomato - Pack of 2",
+    "quantity": "2 x 500 g",
+    "discounted_price": "71",
+    "actual_price": "86"
+  },
+  {
+    "name": "Hybrid Tomato - Pack of 2",
+    "quantity": "2 x 500 g",
+    "discounted_price": "61",
+    "actual_price": "74"
+  },
+  {
+    "name": "Green Peas",
+    "quantity": "250 g",
+    "discounted_price": "50",
+    "actual_price": "57"
+  },
+  {
+    "name": "Potato + Onion + Desi Tomato Combo",
+    "quantity": "1 kg + 1 kg + 500 g",
+    "discounted_price": "89",
+    "actual_price": "10"
+  },
+  {
+    "name": "Potato + Onion + Hybrid Tomato Combo",
+    "quantity": "1 kg + 1 kg + 500 g",
+    "discounted_price": "84",
+    "actual_price": "10"
+  },
+  {
+    "name": "Potato - Pack of 3",
+    "quantity": "3 x 1 kg",
+    "discounted_price": "80",
+    "actual_price": "10"
+  },
+  {
+    "name": "Green Chilli",
+    "quantity": "100 g",
+    "discounted_price": "9",
+    "actual_price": "11"
+  },
+  {
+    "name": "Pointed Gourd",
+    "quantity": "250 g",
+    "discounted_price": "22",
+    "actual_price": "25"
+  },
+  {
+    "name": "Broccoli",
+    "quantity": "1 piece (200 g - 300 g)",
+    "discounted_price": "88",
+    "actual_price": "10"
+  },
+  {
+    "name": "Bottle Gourd",
+    "quantity": "1 piece (400 g - 600 g)",
+    "discounted_price": "45",
+    "actual_price": "57"
+  },
+  {
+    "name": "Drumstick",
+    "quantity": "250 g",
+    "discounted_price": "43",
+    "actual_price": "52"
+  },
+  {
+    "name": "Raw Turmeric",
+    "quantity": "250 g",
+    "discounted_price": "23",
+    "actual_price": "28"
+  },
+  {
+    "name": "Onion - Pack of 2",
+    "quantity": "2 x 1 kg",
+    "discounted_price": "53",
+    "actual_price": "62"
+  },
+  {
+    "name": "Red Potato",
+    "quantity": "1 kg",
+    "discounted_price": "33",
+    "actual_price": "40"
+  },
+  {
+    "name": "Dasheri Mango",
+    "quantity": "4 pieces (0.8 kg - 1 kg)",
+    "discounted_price": "68",
+    "actual_price": "86"
+  },
+  {
+    "name": "Chaunsa Mango",
+    "quantity": "4 pieces (800 g - 1 kg)",
+    "discounted_price": "81",
+    "actual_price": "10"
+  },
+  {
+    "name": "Langra Mango",
+    "quantity": "4 pieces (0.8 kg - 1 kg)",
+    "discounted_price": "74",
+    "actual_price": "89"
+  },
+  {
+    "name": "Kiran Watermelon",
+    "quantity": "1 piece (1.5 kg - 2.5 kg)",
+    "discounted_price": "53",
+    "actual_price": "65"
+  },
+  {
+    "name": "Indian Plum",
+    "quantity": "500 g",
+    "discounted_price": "79",
+    "actual_price": "92"
+  },
+  {
+    "name": "Pineapple",
+    "quantity": "1 piece (1 kg - 1.4 kg)",
+    "discounted_price": "12",
+    "actual_price": "15"
+  },
+  {
+    "name": "Sweet Lime",
+    "quantity": "500 g - 700 g",
+    "discounted_price": "62",
+    "actual_price": "77"
+  },
+  {
+    "name": "Kiwi",
+    "quantity": "3 pieces",
+    "discounted_price": "10",
+    "actual_price": "13"
+  },
+  {
+    "name": "Banana",
+    "quantity": "3 pieces",
+    "discounted_price": "35",
+    "actual_price": "44"
+  },
+  {
+    "name": "Brown Coconut",
+    "quantity": "",
+    "discounted_price": "45",
+    "actual_price": "51"
+  },
+  {
+    "name": "Papaya",
+    "quantity": "1 piece (750 g - 1.25 kg)",
+    "discounted_price": "80",
+    "actual_price": "10"
+  },
+  {
+    "name": "Kimia Dates - Packet",
+    "quantity": "450 g - 500 g",
+    "discounted_price": "21",
+    "actual_price": "25"
+  },
+  {
+    "name": "Coconut",
+    "quantity": "",
+    "discounted_price": "64",
+    "actual_price": "83"
+  },
+  {
+    "name": "Sweet Tamarind Box",
+    "quantity": "225 g",
+    "discounted_price": "12",
+    "actual_price": "15"
+  },
+  {
+    "name": "Sun Melon",
+    "quantity": "1 piece (700 g - 1.2 kg)",
+    "discounted_price": "98",
+    "actual_price": "11"
+  },
+  {
+    "name": "Java Plum Kala - Packet",
+    "quantity": "500 g",
+    "discounted_price": "88",
+    "actual_price": "10"
+  },
+  {
+    "name": "Mini Orange Imported",
+    "quantity": "500 g",
+    "discounted_price": "15",
+    "actual_price": "18"
+  },
+  {
+    "name": "Royal Gala Apple Imported",
+    "quantity": "4 pieces (500 g - 700 g)",
+    "discounted_price": "21",
+    "actual_price": "27"
+  },
+  {
+    "name": "Avocado - Imported",
+    "quantity": "1 piece (150 g - 250 g)",
+    "discounted_price": "26",
+    "actual_price": "31"
+  },
+  {
+    "name": "Red Delicious Apple - Imported",
+    "quantity": "4 pieces (520 g - 720 g)",
+    "discounted_price": "24",
+    "actual_price": "31"
+  },
+  {
+    "name": "Iceberg Lettuce",
+    "quantity": "250 g",
+    "discounted_price": "11",
+    "actual_price": "13"
+  },
+  {
+    "name": "Lemongrass",
+    "quantity": "100 g",
+    "discounted_price": "45",
+    "actual_price": "55"
+  },
+  {
+    "name": "Yellow + Red Capsicum Combo",
+    "quantity": "1 piece (150 g - 200 g) + 1 piece (150 g - 200 g)",
+    "discounted_price": "12",
+    "actual_price": "15"
+  },
+  {
+    "name": "Mini Orange Imported",
+    "quantity": "500 g",
+    "discounted_price": "15",
+    "actual_price": "18"
+  },
+  {
+    "name": "Cherry Tomato",
+    "quantity": "200 g",
+    "discounted_price": "85",
+    "actual_price": "98"
+  },
+  {
+    "name": "Fuji Apple - Imported",
+    "quantity": "4 pieces (600 g - 800 g)",
+    "discounted_price": "28",
+    "actual_price": "37"
+  },
+  {
+    "name": "Baby Corn - Packet",
+    "quantity": "200 g",
+    "discounted_price": "60",
+    "actual_price": "78"
+  },
+  {
+    "name": "Royal Gala Apple Imported",
+    "quantity": "4 pieces (500 g - 700 g)",
+    "discounted_price": "21",
+    "actual_price": "27"
+  },
+  {
+    "name": "Red Capsicum",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "Yellow Capsicum",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "Avocado - Imported",
+    "quantity": "1 piece (150 g - 250 g)",
+    "discounted_price": "26",
+    "actual_price": "31"
+  },
+  {
+    "name": "Red Delicious Apple - Imported",
+    "quantity": "4 pieces (520 g - 720 g)",
+    "discounted_price": "24",
+    "actual_price": "31"
+  },
+  {
+    "name": "Valencia Orange Imported",
+    "quantity": "1 kg",
+    "discounted_price": "14",
+    "actual_price": "18"
+  },
+  {
+    "name": "White Onion",
+    "quantity": "500 g",
+    "discounted_price": "41",
+    "actual_price": "49"
+  },
+  {
+    "name": "Dried Apricots",
+    "quantity": "125 g",
+    "discounted_price": "20",
+    "actual_price": "24"
+  },
+  {
+    "name": "Red Cabbage",
+    "quantity": "1 piece (300 g - 500 g)",
+    "discounted_price": "11",
+    "actual_price": "12"
+  },
+  {
+    "name": "Blueberry Imported- Packet",
+    "quantity": "125 g",
+    "discounted_price": "40",
+    "actual_price": "50"
+  },
+  {
+    "name": "Red Globe Grapes - Packet",
+    "quantity": "200 g - 250 g",
+    "discounted_price": "13",
+    "actual_price": "18"
+  },
+  {
+    "name": "Red &amp; Yellow Capsicum",
+    "quantity": "2 pieces",
+    "discounted_price": "12",
+    "actual_price": "15"
+  },
+  {
+    "name": "Green Zucchini",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "Dasheri Mango",
+    "quantity": "4 pieces (0.8 kg - 1 kg)",
+    "discounted_price": "68",
+    "actual_price": "86"
+  },
+  {
+    "name": "Chaunsa Mango",
+    "quantity": "4 pieces (800 g - 1 kg)",
+    "discounted_price": "81",
+    "actual_price": "10"
+  },
+  {
+    "name": "Langra Mango",
+    "quantity": "4 pieces (0.8 kg - 1 kg)",
+    "discounted_price": "74",
+    "actual_price": "89"
+  },
+  {
+    "name": "Kiran Watermelon",
+    "quantity": "1 piece (1.5 kg - 2.5 kg)",
+    "discounted_price": "53",
+    "actual_price": "65"
+  },
+  {
+    "name": "Sun Melon",
+    "quantity": "1 piece (700 g - 1.2 kg)",
+    "discounted_price": "98",
+    "actual_price": "11"
+  },
+  {
+    "name": "Lady Finger",
+    "quantity": "250 g",
+    "discounted_price": "13",
+    "actual_price": "16"
+  },
+  {
+    "name": "Bitter Gourd",
+    "quantity": "250 g - 300 g",
+    "discounted_price": "20",
+    "actual_price": "26"
+  },
+  {
+    "name": "Bottle Gourd",
+    "quantity": "1 piece (400 g - 600 g)",
+    "discounted_price": "45",
+    "actual_price": "57"
+  },
+  {
+    "name": "Cucumber",
+    "quantity": "500 g - 700 g",
+    "discounted_price": "38",
+    "actual_price": "49"
+  },
+  {
+    "name": "Sponge Gourd",
+    "quantity": "400 g - 500 g",
+    "discounted_price": "26",
+    "actual_price": "32"
+  },
+  {
+    "name": "Green Pumpkin",
+    "quantity": "600 g - 1 kg",
+    "discounted_price": "30",
+    "actual_price": "38"
+  },
+  {
+    "name": "French Beans",
+    "quantity": "250 g",
+    "discounted_price": "33",
+    "actual_price": "40"
+  },
+  {
+    "name": "Round Bottle Gourd",
+    "quantity": "300 g - 400 g",
+    "discounted_price": "22",
+    "actual_price": "27"
+  },
+  {
+    "name": "Cluster Beans",
+    "quantity": "250 g",
+    "discounted_price": "15",
+    "actual_price": "17"
+  },
+  {
+    "name": "Brown Chana Sprouts + Sprouts - Green Moong Combo",
+    "quantity": "150 g - 160 g + 150 g - 160 g",
+    "discounted_price": "70",
+    "actual_price": "87"
+  },
+  {
+    "name": "Green Moong Sprouts",
+    "quantity": "150 g - 160 g",
+    "discounted_price": "35",
+    "actual_price": "44"
+  },
+  {
+    "name": "Brown Chana Sprouts",
+    "quantity": "150 g - 160 g",
+    "discounted_price": "36",
+    "actual_price": "43"
+  },
+  {
+    "name": "Mixed Sprouts",
+    "quantity": "200 g",
+    "discounted_price": "31",
+    "actual_price": "36"
+  },
+  {
+    "name": "Jackfruit - Cut",
+    "quantity": "450 g - 500 g",
+    "discounted_price": "62",
+    "actual_price": "75"
+  },
+  {
+    "name": "SPT Frozen Green Peas",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "Farmland Frozen Sweet Corn",
+    "quantity": "1 kg",
+    "discounted_price": "12",
+    "actual_price": "20"
+  },
+  {
+    "name": "Safal Sweet Corn",
+    "quantity": "500 g",
+    "discounted_price": "85",
+    "actual_price": "10"
+  },
+  {
+    "name": "SPT American Frozen Sweet Corn",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "Safal Green Peas",
+    "quantity": "500 g",
+    "discounted_price": "11",
+    "actual_price": "13"
+  },
+  {
+    "name": "Sofal",
+    "quantity": "500 g",
+    "discounted_price": "68",
+    "actual_price": "80"
+  },
+  {
+    "name": "SPT Frozen Mixed Vegetables",
+    "quantity": "500 g",
+    "discounted_price": "59",
+    "actual_price": "12"
+  },
+  {
+    "name": "Sumeru Classiques Frozen Green Peas - Buy 1 Get 1 Free",
+    "quantity": "2 x 500 g",
+    "discounted_price": "14",
+    "actual_price": "15"
+  },
+  {
+    "name": "Sumeru Classiques Sweet Corn - Buy 1 Get 1 Free",
+    "quantity": "500 g + 500 g Free",
+    "discounted_price": "15",
+    "actual_price": "di"
+  },
+  {
+    "name": "JusVeg Frozen Green Peas",
+    "quantity": "500 g",
+    "discounted_price": "15",
+    "actual_price": "di"
+  },
+  {
+    "name": "Farmland Frozen Green Peas",
+    "quantity": "1 kg",
+    "discounted_price": "15",
+    "actual_price": "24"
+  },
+  {
+    "name": "Amul Shakti Fresh Milk",
+    "quantity": "500 ml",
+    "discounted_price": "26",
+    "actual_price": "27"
+  },
+  {
+    "name": "Verka Standard Fresh Milk",
+    "quantity": "500 ml",
+    "discounted_price": "27",
+    "actual_price": "di"
+  },
+  {
+    "name": "Verka Double Toned Fresh Milk",
+    "quantity": "500 ml",
+    "discounted_price": "22",
+    "actual_price": "di"
+  },
+  {
+    "name": "Verka Full Cream Fresh Milk",
+    "quantity": "500 ml",
+    "discounted_price": "30",
+    "actual_price": "di"
+  },
+  {
+    "name": "Amul Gold Full Cream Fresh Milk",
+    "quantity": "500 ml",
+    "discounted_price": "29",
+    "actual_price": "30"
+  },
+  {
+    "name": "Amul Moti Toned Milk (90 Days Shelf Life)",
+    "quantity": "450 ml",
+    "discounted_price": "29",
+    "actual_price": "30"
+  },
+  {
+    "name": "Yakult Light Probiotic Health Drink",
+    "quantity": "5 x 65 ml",
+    "discounted_price": "95",
+    "actual_price": "di"
+  },
+  {
+    "name": "Health Drink",
+    "quantity": "5 x 65 ml",
+    "discounted_price": "80",
+    "actual_price": "di"
+  },
+  {
+    "name": "Nestle a+ Nourish Toned Milk",
+    "quantity": "1 l",
+    "discounted_price": "85",
+    "actual_price": "di"
+  },
+  {
+    "name": "Nestle a+ Slim Skimmed Milk",
+    "quantity": "1 l",
+    "discounted_price": "89",
+    "actual_price": "di"
+  },
+  {
+    "name": "Amul Taaza Homogenised Toned Milk",
+    "quantity": "1 l",
+    "discounted_price": "65",
+    "actual_price": "68"
+  },
+  {
+    "name": "Amul Gold Milk",
+    "quantity": "1 l",
+    "discounted_price": "71",
+    "actual_price": "74"
+  },
+  {
+    "name": "Amul Masti Spiced Buttermilk - Pack of 2",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "Amul Lassi - Pack of 2",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "Verka Double Toned Milk",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "Verka Standardized Milk",
+    "quantity": "1 l",
+    "discounted_price": "72",
+    "actual_price": "di"
+  },
+  {
+    "name": "Verka Toned Milk",
+    "quantity": "1 l",
+    "discounted_price": "68",
+    "actual_price": "di"
+  },
+  {
+    "name": "Amul Masti Spiced Buttermilk - Pack of 2",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "Nescafe Intense Cappuccino Cold Coffee - Pack of 2",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "Nescafe Iced Latte Cold Coffee - Pack of 2",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "Amul Lassi - Pack of 2",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "Verka Namkeen Lassi",
+    "quantity": "200 ml",
+    "discounted_price": "19",
+    "actual_price": "20"
+  },
+  {
+    "name": "Hershey's Cookies 'n' Creme Milk Shake - Pack of 2",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "Hershey's Chocolate Milk Shake - Pack of 2",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "Hershey's Strawberry Milk Shake - Pack of 2",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "Sunfeast Vanilla Milk Shake",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "Sunfeast Strawberry Milk Shake",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "Nescafe Ready to Drink Intense Cafe Cold Coffee",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "Sleepy Owl Salted Caramel Cold Coffee",
+    "quantity": "200 ml",
+    "discounted_price": "12",
+    "actual_price": "di"
+  },
+  {
+    "name": "Nescafe Chilled Latte Cold Coffee - Pack of 2",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "Starbucks Frappuccino Vanilla Cold Coffee (Imported)",
+    "quantity": "281 ml",
+    "discounted_price": "40",
+    "actual_price": "di"
+  },
+  {
+    "name": "Cavin's Lassi",
+    "quantity": "180 ml",
+    "discounted_price": "19",
+    "actual_price": "20"
+  },
+  {
+    "name": "Britannia Winkin Cow Chocolate Thick Milkshake",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "Sunfeast Dark Fantasy Milk Shake with Belgian Chocolate",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "Verka Sweet Lassi",
+    "quantity": "200 ml",
+    "discounted_price": "24",
+    "actual_price": "25"
+  },
+  {
+    "name": "Verka Pio Badam",
+    "quantity": "200 ml",
+    "discounted_price": "24",
+    "actual_price": "25"
+  },
+  {
+    "name": "Verka Pio Choco Flavoured Milk",
+    "quantity": "200 ml",
+    "discounted_price": "30",
+    "actual_price": "di"
+  },
+  {
+    "name": "Amul Masti Curd",
+    "quantity": "200 g",
+    "discounted_price": "19",
+    "actual_price": "20"
+  },
+  {
+    "name": "Verka Dahi",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "Epigamia Blueberry Greek Yogurt",
+    "quantity": "90 g",
+    "discounted_price": "55",
+    "actual_price": "di"
+  },
+  {
+    "name": "Epigamia Mishti Doi",
+    "quantity": "85 g",
+    "discounted_price": "35",
+    "actual_price": "di"
+  },
+  {
+    "name": "Mother Dairy Blueberry Flavoured Yogurt",
+    "quantity": "100 g",
+    "discounted_price": "25",
+    "actual_price": "di"
+  },
+  {
+    "name": "Epigamia Wild Raspberry Greek Yogurt",
+    "quantity": "90 g",
+    "discounted_price": "55",
+    "actual_price": "di"
+  },
+  {
+    "name": "Verka Dahi",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "Epigamia Strawberry Greek Yogurt",
+    "quantity": "90 g",
+    "discounted_price": "55",
+    "actual_price": "di"
+  },
+  {
+    "name": "Epigamia Natural Greek Yogurt",
+    "quantity": "90 g",
+    "discounted_price": "55",
+    "actual_price": "di"
+  },
+  {
+    "name": "Epigamia Alphonso Mango Greek Yogurt",
+    "quantity": "90 g",
+    "discounted_price": "55",
+    "actual_price": "di"
+  },
+  {
+    "name": "Mother Dairy Mishti Doi (400 g)",
+    "quantity": "400 g",
+    "discounted_price": "70",
+    "actual_price": "di"
+  },
+  {
+    "name": "Mother Dairy Mango Flavoured Yogurt",
+    "quantity": "100 g",
+    "discounted_price": "25",
+    "actual_price": "di"
+  },
+  {
+    "name": "Mother Dairy Raspberry Flavoured Yogurt",
+    "quantity": "100 g",
+    "discounted_price": "25",
+    "actual_price": "di"
+  },
+  {
+    "name": "Mother Dairy Ultimate Curd",
+    "quantity": "200 g",
+    "discounted_price": "25",
+    "actual_price": "di"
+  },
+  {
+    "name": "Mother Dairy Nutrifit Probiotic Curd",
+    "quantity": "200 g",
+    "discounted_price": "25",
+    "actual_price": "di"
+  },
+  {
+    "name": "Mother Dairy Mishti Doi",
+    "quantity": "80 g",
+    "discounted_price": "20",
+    "actual_price": "di"
+  },
+  {
+    "name": "Table White Eggs - 30 Pieces Tray",
+    "quantity": "30 pieces",
+    "discounted_price": "24",
+    "actual_price": "25"
+  },
+  {
+    "name": "Hen Fruit Farm Brown Eggs",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "Table White Eggs (6 pieces)",
+    "quantity": "1 pack (6 pieces)",
+    "discounted_price": "55",
+    "actual_price": "85"
+  },
+  {
+    "name": "Table White Eggs (10 pieces)",
+    "quantity": "1 pack (10 pieces)",
+    "discounted_price": "93",
+    "actual_price": "14"
+  },
+  {
+    "name": "Hen Fruit Pullet Eggs",
+    "quantity": "10 units",
+    "discounted_price": "77",
+    "actual_price": "11"
+  },
+  {
+    "name": "The Natural Fresh White Eggs - Pack of 2",
+    "quantity": "2 x 6 units",
+    "discounted_price": "14",
+    "actual_price": "17"
+  },
+  {
+    "name": "Hen Fruit Power Brown Eggs",
+    "quantity": "1 pack (10 pieces)",
+    "discounted_price": "11",
+    "actual_price": "18"
+  },
+  {
+    "name": "Hen Fruit Farm White Eggs",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "The Natural Fresh White Eggs - 30 pieces",
+    "quantity": "1 pack (30 pieces)",
+    "discounted_price": "24",
+    "actual_price": "31"
+  },
+  {
+    "name": "Hen Fruit MAX Protein Rich Eggs",
+    "quantity": "30 units",
+    "discounted_price": "28",
+    "actual_price": "39"
+  },
+  {
+    "name": "Hen Fruit Cornfed Speciality Eggs",
+    "quantity": "24 units",
+    "discounted_price": "20",
+    "actual_price": "31"
+  },
+  {
+    "name": "The Natural Fresh White Eggs - 10 pieces",
+    "quantity": "1 pack (10 pieces)",
+    "discounted_price": "11",
+    "actual_price": "14"
+  },
+  {
+    "name": "The Natural Fresh White Eggs - 6 pieces",
+    "quantity": "1 pack (6 pieces)",
+    "discounted_price": "71",
+    "actual_price": "85"
+  },
+  {
+    "name": "Hen Fruit White Protein Rich Eggs",
+    "quantity": "1 pack (10 pieces)",
+    "discounted_price": "98",
+    "actual_price": "14"
+  },
+  {
+    "name": "Bonn Brown Bread",
+    "quantity": "400 g",
+    "discounted_price": "43",
+    "actual_price": "45"
+  },
+  {
+    "name": "Bonn Atta Whole Wheat Bread",
+    "quantity": "400 g",
+    "discounted_price": "43",
+    "actual_price": "45"
+  },
+  {
+    "name": "Kitty Soft White Bread",
+    "quantity": "250 g",
+    "discounted_price": "24",
+    "actual_price": "25"
+  },
+  {
+    "name": "Bonn Multigrain Hi-Fibre Bread",
+    "quantity": "200 g",
+    "discounted_price": "35",
+    "actual_price": "di"
+  },
+  {
+    "name": "Kitty Pizza Base",
+    "quantity": "200 g",
+    "discounted_price": "45",
+    "actual_price": "di"
+  },
+  {
+    "name": "Kitty Hi-Fiber Brown Bread",
+    "quantity": "400 g",
+    "discounted_price": "43",
+    "actual_price": "45"
+  },
+  {
+    "name": "Kitty Premium Bake Sandwich Bread",
+    "quantity": "700 g",
+    "discounted_price": "53",
+    "actual_price": "55"
+  },
+  {
+    "name": "Kitty Garlic Bread",
+    "quantity": "200 g",
+    "discounted_price": "34",
+    "actual_price": "35"
+  },
+  {
+    "name": "Kitty Bombay Pav",
+    "quantity": "350 g",
+    "discounted_price": "43",
+    "actual_price": "45"
+  },
+  {
+    "name": "La Americana Whole Wheat Bran Brown Bread",
+    "quantity": "350 g",
+    "discounted_price": "55",
+    "actual_price": "di"
+  },
+  {
+    "name": "La Americana Whole Wheat Multi Grain Brown Bread",
+    "quantity": "350 g",
+    "discounted_price": "60",
+    "actual_price": "di"
+  },
+  {
+    "name": "Kitty Sweet Bun",
+    "quantity": "100 g",
+    "discounted_price": "15",
+    "actual_price": "di"
+  },
+  {
+    "name": "Kitty Kulcha",
+    "quantity": "200 g",
+    "discounted_price": "38",
+    "actual_price": "40"
+  },
+  {
+    "name": "Kitty Burger Burger Bun",
+    "quantity": "225 g",
+    "discounted_price": "34",
+    "actual_price": "35"
+  },
+  {
+    "name": "Bonn Garlic Bread",
+    "quantity": "200 g",
+    "discounted_price": "40",
+    "actual_price": "di"
+  },
+  {
+    "name": "Bonn Multigrain Hi Fibre Bread",
+    "quantity": "400 g",
+    "discounted_price": "70",
+    "actual_price": "di"
+  },
+  {
+    "name": "Bonn Premium Kulcha Bread",
+    "quantity": "200 g",
+    "discounted_price": "40",
+    "actual_price": "di"
+  },
+  {
+    "name": "Bonn Prime Time Milk Pav (12 slices)",
+    "quantity": "350 g",
+    "discounted_price": "45",
+    "actual_price": "di"
+  },
+  {
+    "name": "Bonn Premium Prime Time Pizza Base",
+    "quantity": "200 g",
+    "discounted_price": "43",
+    "actual_price": "45"
+  },
+  {
+    "name": "La Americana Wholewheat Garlic Sub Roll Bread",
+    "quantity": "150 g",
+    "discounted_price": "35",
+    "actual_price": "di"
+  },
+  {
+    "name": "La Americana Garlic Oregano Bread",
+    "quantity": "250 g",
+    "discounted_price": "50",
+    "actual_price": "di"
+  },
+  {
+    "name": "Bonn Multigrain Sub Bread",
+    "quantity": "100 g",
+    "discounted_price": "24",
+    "actual_price": "25"
+  },
+  {
+    "name": "Amul Butter (Chiplets)",
+    "quantity": "10 units",
+    "discounted_price": "61",
+    "actual_price": "di"
+  },
+  {
+    "name": "Amul Garlic &amp; Herbs Butter",
+    "quantity": "100 g",
+    "discounted_price": "53",
+    "actual_price": "di"
+  },
+  {
+    "name": "Verka Butter",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "Amul Butter - 500 g",
+    "quantity": "500 g",
+    "discounted_price": "24",
+    "actual_price": "25"
+  },
+  {
+    "name": "Amul Butter (200 g)",
+    "quantity": "200 g",
+    "discounted_price": "10",
+    "actual_price": "di"
+  },
+  {
+    "name": "Nutralite DoodhShakti Probiotic (Salted) Spread Butter",
+    "quantity": "500 g",
+    "discounted_price": "20",
+    "actual_price": "26"
+  },
+  {
+    "name": "Mother Dairy Butter",
+    "quantity": "100 g",
+    "discounted_price": "50",
+    "actual_price": "di"
+  },
+  {
+    "name": "Mother Dairy Butter (500 g)",
+    "quantity": "500 g",
+    "discounted_price": "25",
+    "actual_price": "di"
+  },
+  {
+    "name": "Amul Lite Milk Fat Spread",
+    "quantity": "500 g",
+    "discounted_price": "20",
+    "actual_price": "di"
+  },
+  {
+    "name": "Amul Butter - 100 g",
+    "quantity": "100 g",
+    "discounted_price": "50",
+    "actual_price": "52"
+  },
+  {
+    "name": "Cheese",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "Amul Pizza Mozzarella Cheese Block - Pack of 2",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "Amul Cheese Block",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "Mother Dairy Cheese Slices (200 g)",
+    "quantity": "200 g",
+    "discounted_price": "13",
+    "actual_price": "di"
+  },
+  {
+    "name": "Amul Cheese Slices (750 g)",
+    "quantity": "750 g",
+    "discounted_price": "39",
+    "actual_price": "di"
+  },
+  {
+    "name": "Amul Blend Diced Cheese",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "Britannia Cheese Cubes (200 g)",
+    "quantity": "200 g",
+    "discounted_price": "13",
+    "actual_price": "14"
+  },
+  {
+    "name": "Amul Cheese Cubes (200 g)",
+    "quantity": "200 g",
+    "discounted_price": "12",
+    "actual_price": "di"
+  },
+  {
+    "name": "Mother Dairy Cheese Cubes (180 g)",
+    "quantity": "180 g",
+    "discounted_price": "11",
+    "actual_price": "12"
+  },
+  {
+    "name": "Britannia Cheese Slices (200 g)",
+    "quantity": "200 g",
+    "discounted_price": "14",
+    "actual_price": "16"
+  },
+  {
+    "name": "Britannia Cheezza Mozzarella Cheese Block",
+    "quantity": "200 g",
+    "discounted_price": "13",
+    "actual_price": "15"
+  },
+  {
+    "name": "Britannia Cheezza for Pizza Cheese Block",
+    "quantity": "400 g",
+    "discounted_price": "26",
+    "actual_price": "30"
+  },
+  {
+    "name": "Britannia Cream Cheese",
+    "quantity": "180 g",
+    "discounted_price": "18",
+    "actual_price": "21"
+  },
+  {
+    "name": "Britannia Classic Cheese Spread",
+    "quantity": "180 g",
+    "discounted_price": "10",
+    "actual_price": "11"
+  },
+  {
+    "name": "Amul Yummy Plain Cheese Spread",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "Amul Punchy Pepper Cheese Spread",
+    "quantity": "200 g",
+    "discounted_price": "89",
+    "actual_price": "94"
+  },
+  {
+    "name": "Amul Spicy Garlic Cheese Spread Pack of 2 - Pack of 2",
+    "quantity": "2x200 g",
+    "discounted_price": "17",
+    "actual_price": "18"
+  },
+  {
+    "name": "Amul Spicy Garlic Cheese Spread",
+    "quantity": "200 g",
+    "discounted_price": "89",
+    "actual_price": "94"
+  },
+  {
+    "name": "Britannia Cheese Slices (480 g)",
+    "quantity": "480 g",
+    "discounted_price": "36",
+    "actual_price": "40"
+  },
+  {
+    "name": "Amul Pizza Mozzarella Diced Cheese",
+    "quantity": "1 kg",
+    "discounted_price": "46",
+    "actual_price": "48"
+  },
+  {
+    "name": "Verka Paneer",
+    "quantity": "200 g",
+    "discounted_price": "75",
+    "actual_price": "di"
+  },
+  {
+    "name": "Mother Dairy Paneer",
+    "quantity": "200 g",
+    "discounted_price": "81",
+    "actual_price": "85"
+  },
+  {
+    "name": "Paneer",
+    "quantity": "200 g",
+    "discounted_price": "75",
+    "actual_price": "78"
+  },
+  {
+    "name": "Cream",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "Nestle Everyday Dairy Whitener",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "Vahdam Milk Powder",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "Nestle Milkmaid Sweetened Condensed Milk",
+    "quantity": "400 g",
+    "discounted_price": "13",
+    "actual_price": "di"
+  },
+  {
+    "name": "Amul Mithai Mate Condensed Milk",
+    "quantity": "400 g",
+    "discounted_price": "11",
+    "actual_price": "di"
+  },
+  {
+    "name": "So Good Almond Natural Unsweetened Beverage",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "So Good Almond Vanilla Plant Based Beverage",
+    "quantity": "1 l",
+    "discounted_price": "29",
+    "actual_price": "di"
+  },
+  {
+    "name": "Sofit Natural Soy Milk (Sugar Free)",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "Sofit Unsweetened Almond Milk - Pack of 2",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "Sofit Kesar Pista Soy Milk",
+    "quantity": "1 l",
+    "discounted_price": "12",
+    "actual_price": "14"
+  },
+  {
+    "name": "Sofit Vanilla Soy Milk",
+    "quantity": "1 l",
+    "discounted_price": "12",
+    "actual_price": "14"
+  },
+  {
+    "name": "Sofit Natural Soy Milk - Pack of 2",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "So Good Soy Natural Unsweetened Beverage",
+    "quantity": "1 l",
+    "discounted_price": "12",
+    "actual_price": "13"
+  },
+  {
+    "name": "So Good Almond Vanilla Beverage",
+    "quantity": "200 ml",
+    "discounted_price": "65",
+    "actual_price": "70"
+  },
+  {
+    "name": "Sofit Chocolate Soy Milk",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "Sofit Chocolate Almond Milk",
+    "quantity": "200 ml",
+    "discounted_price": "69",
+    "actual_price": "80"
+  },
+  {
+    "name": "Real Thai UHT Coconut Milk",
+    "quantity": "250 ml",
+    "discounted_price": "11",
+    "actual_price": "di"
+  },
+  {
+    "name": "Dabur Hommade Coconut Milk",
+    "quantity": "200 ml",
+    "discounted_price": "69",
+    "actual_price": "75"
+  },
+  {
+    "name": "Dabur Hommade Goodness of 2 Creamy Coconuts, Coconut Milk - Pack of 2",
+    "quantity": "2 x 200 ml",
+    "discounted_price": "13",
+    "actual_price": "15"
+  },
+  {
+    "name": "Bikano Besan Laddu",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "Haldiram's Rasgulla",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "Bikano Rasgulla",
+    "quantity": "1 kg",
+    "discounted_price": "18",
+    "actual_price": "24"
+  },
+  {
+    "name": "Haldiram's Gulab Jamun",
+    "quantity": "1 kg",
+    "discounted_price": "24",
+    "actual_price": "di"
+  },
+  {
+    "name": "Haldiram's Gulab Jamun (6 Pieces)",
+    "quantity": "3 x 140 g",
+    "discounted_price": "12",
+    "actual_price": "di"
+  },
+  {
+    "name": "Haldiram's Cham cham",
+    "quantity": "1 kg",
+    "discounted_price": "24",
+    "actual_price": "di"
+  },
+  {
+    "name": "Bikano Gulab Jamun",
+    "quantity": "1 kg",
+    "discounted_price": "23",
+    "actual_price": "24"
+  },
+  {
+    "name": "Haldiram's Rasgulla (6 Pieces)",
+    "quantity": "3 x 125 g",
+    "discounted_price": "10",
+    "actual_price": "di"
+  },
+  {
+    "name": "MTR Gulab Jamun Dessert Mix",
+    "quantity": "2 x 160 g",
+    "discounted_price": "13",
+    "actual_price": "di"
+  },
+  {
+    "name": "Amul Kaju Katli",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "Gowardhan Premium Cow Ghee",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "Paras Desi Ghee",
+    "quantity": "1 l",
+    "discounted_price": "47",
+    "actual_price": "50"
+  },
+  {
+    "name": "Milkfood Rich Desi Danedar Ghee",
+    "quantity": "1 l",
+    "discounted_price": "45",
+    "actual_price": "55"
+  },
+  {
+    "name": "Verka Desi Ghee",
+    "quantity": "1 l",
+    "discounted_price": "47",
+    "actual_price": "53"
+  },
+  {
+    "name": "Milkfood Pure Cow Ghee",
+    "quantity": "1 l",
+    "discounted_price": "50",
+    "actual_price": "56"
+  },
+  {
+    "name": "Amul Pure Ghee",
+    "quantity": "1 l",
+    "discounted_price": "49",
+    "actual_price": "52"
+  },
+  {
+    "name": "Patanjali Cow Ghee",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "Amul Pure Ghee",
+    "quantity": "500 ml",
+    "discounted_price": "26",
+    "actual_price": "27"
+  },
+  {
+    "name": "Amul Pure Ghee",
+    "quantity": "1 l",
+    "discounted_price": "49",
+    "actual_price": "52"
+  },
+  {
+    "name": "Amul Cow Ghee (Tin)",
+    "quantity": "1 l",
+    "discounted_price": "52",
+    "actual_price": "55"
+  },
+  {
+    "name": "Conscious Food Gir Natural Cow Ghee",
+    "quantity": "500 ml",
+    "discounted_price": "17",
+    "actual_price": "22"
+  },
+  {
+    "name": "Organic India Organic Cow Ghee",
+    "quantity": "500 ml",
+    "discounted_price": "55",
+    "actual_price": "65"
+  },
+  {
+    "name": "Gopaljee Ananda Ghee",
+    "quantity": "1 l",
+    "discounted_price": "46",
+    "actual_price": "55"
+  },
+  {
+    "name": "Real Thai UHT Coconut Milk",
+    "quantity": "250 ml",
+    "discounted_price": "11",
+    "actual_price": "di"
+  },
+  {
+    "name": "Epigamia Blueberry Greek Yogurt",
+    "quantity": "90 g",
+    "discounted_price": "55",
+    "actual_price": "di"
+  },
+  {
+    "name": "Epigamia Mishti Doi",
+    "quantity": "85 g",
+    "discounted_price": "35",
+    "actual_price": "di"
+  },
+  {
+    "name": "Sofit Natural Soy Milk (Sugar Free)",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "Sofit Unsweetened Almond Milk - Pack of 2",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "Sofit Kesar Pista Soy Milk",
+    "quantity": "1 l",
+    "discounted_price": "12",
+    "actual_price": "14"
+  },
+  {
+    "name": "Sofit Natural Soy Milk - Pack of 2",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "Epigamia Wild Raspberry Greek Yogurt",
+    "quantity": "90 g",
+    "discounted_price": "55",
+    "actual_price": "di"
+  },
+  {
+    "name": "Sofit Chocolate Soy Milk",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "Sofit Chocolate Almond Milk",
+    "quantity": "200 ml",
+    "discounted_price": "69",
+    "actual_price": "80"
+  },
+  {
+    "name": "Epigamia Strawberry Greek Yogurt",
+    "quantity": "90 g",
+    "discounted_price": "55",
+    "actual_price": "di"
+  },
+  {
+    "name": "Epigamia Natural Greek Yogurt",
+    "quantity": "90 g",
+    "discounted_price": "55",
+    "actual_price": "di"
+  },
+  {
+    "name": "Epigamia Alphonso Mango Greek Yogurt",
+    "quantity": "90 g",
+    "discounted_price": "55",
+    "actual_price": "di"
+  },
+  {
+    "name": "ASOP 100% Wheat Flour / Atta",
+    "quantity": "10 kg",
+    "discounted_price": "26",
+    "actual_price": "32"
+  },
+  {
+    "name": "Fortune Chakki Fresh (100% Atta, 0% Maida) Atta",
+    "quantity": "10 kg",
+    "discounted_price": "33",
+    "actual_price": "39"
+  },
+  {
+    "name": "Aashirvaad Shudh Chakki Whole Wheat Atta (5 kg)",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "Bagrry's Oats Atta",
+    "quantity": "500 g",
+    "discounted_price": "13",
+    "actual_price": "di"
+  },
+  {
+    "name": "Aashirvaad Multigrain Atta",
+    "quantity": "5 kg",
+    "discounted_price": "25",
+    "actual_price": "32"
+  },
+  {
+    "name": "Patanjali Whole Wheat Chakki Atta (with Bran) 5 kg",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "Organic Tattva Wheat Organic Atta, 5 kg",
+    "quantity": "5 kg",
+    "discounted_price": "22",
+    "actual_price": "32"
+  },
+  {
+    "name": "24 Mantra Whole Wheat Organic Atta",
+    "quantity": "5 kg",
+    "discounted_price": "26",
+    "actual_price": "31"
+  },
+  {
+    "name": "Aashirvaad Select Whole Wheat Sharbati Atta",
+    "quantity": "5 kg",
+    "discounted_price": "25",
+    "actual_price": "31"
+  },
+  {
+    "name": "Aashirvaad Shudh Chakki Whole Wheat Atta (10 kg)",
+    "quantity": "10 kg",
+    "discounted_price": "39",
+    "actual_price": "41"
+  },
+  {
+    "name": "Aplus Besan",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "Fortune 100% Chana Dal Besan",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "Tata Sampann 100% Chana Dal Fine Besan/Gram Flour",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "Rajdhani Sooji/Rava",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "Rajdhani Maida",
+    "quantity": "500 g",
+    "discounted_price": "30",
+    "actual_price": "35"
+  },
+  {
+    "name": "Rajdhani Besan",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "Organic Tattva Organic Maida",
+    "quantity": "500 g",
+    "discounted_price": "39",
+    "actual_price": "55"
+  },
+  {
+    "name": "Organic Tattva Organic Besan",
+    "quantity": "500 g",
+    "discounted_price": "57",
+    "actual_price": "10"
+  },
+  {
+    "name": "24 Mantra Organic Besan",
+    "quantity": "500 g",
+    "discounted_price": "93",
+    "actual_price": "95"
+  },
+  {
+    "name": "24 Mantra Rice Idli Organic Rava",
+    "quantity": "500 g",
+    "discounted_price": "54",
+    "actual_price": "55"
+  },
+  {
+    "name": "Aplus Roasted Sooji",
+    "quantity": "500 g",
+    "discounted_price": "26",
+    "actual_price": "35"
+  },
+  {
+    "name": "Aplus Maida",
+    "quantity": "500 g",
+    "discounted_price": "26",
+    "actual_price": "35"
+  },
+  {
+    "name": "Rajdhani Chana Sattu",
+    "quantity": "500 g",
+    "discounted_price": "58",
+    "actual_price": "75"
+  },
+  {
+    "name": "24 Mantra Organic Bajra Flour",
+    "quantity": "500 g",
+    "discounted_price": "55",
+    "actual_price": "di"
+  },
+  {
+    "name": "Aplus Maida",
+    "quantity": "500 g",
+    "discounted_price": "26",
+    "actual_price": "35"
+  },
+  {
+    "name": "Aplus Every Day Basmati Rice",
+    "quantity": "1 kg",
+    "discounted_price": "78",
+    "actual_price": "13"
+  },
+  {
+    "name": "Pansari Signature Basmati Rice - Free Shasha Biryani Masala 50 g",
+    "quantity": "5 kg + 50 g",
+    "discounted_price": "66",
+    "actual_price": "13"
+  },
+  {
+    "name": "Heritage Mogra1 Basmati Rice",
+    "quantity": "10 kg",
+    "discounted_price": "51",
+    "actual_price": "78"
+  },
+  {
+    "name": "India Gate Regular Choice Basmati Rice",
+    "quantity": "5 kg",
+    "discounted_price": "46",
+    "actual_price": "56"
+  },
+  {
+    "name": "Pansari Tasty Basmati Rice",
+    "quantity": "5 kg",
+    "discounted_price": "41",
+    "actual_price": "54"
+  },
+  {
+    "name": "India Gate Super Basmati Rice",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "India Gate Feast Rozzana Basmati Rice",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "Daawat Rozana Gold Basmati Rice",
+    "quantity": "5 kg",
+    "discounted_price": "38",
+    "actual_price": "56"
+  },
+  {
+    "name": "Daawat Rozana Super Basmati Rice",
+    "quantity": "5 kg",
+    "discounted_price": "34",
+    "actual_price": "48"
+  },
+  {
+    "name": "Daawat Pulav Basmati Rice",
+    "quantity": "1 kg",
+    "discounted_price": "11",
+    "actual_price": "13"
+  },
+  {
+    "name": "Fortune Rozana Basmati Rice",
+    "quantity": "1 kg",
+    "discounted_price": "87",
+    "actual_price": "13"
+  },
+  {
+    "name": "India Gate Brown Basmati Rice",
+    "quantity": "1 kg",
+    "discounted_price": "18",
+    "actual_price": "18"
+  },
+  {
+    "name": "Daawat Devaaya Everyday Parmal Rice",
+    "quantity": "5 kg",
+    "discounted_price": "27",
+    "actual_price": "52"
+  },
+  {
+    "name": "Daawat Devaaya Basmati Rice",
+    "quantity": "5 kg",
+    "discounted_price": "45",
+    "actual_price": "57"
+  },
+  {
+    "name": "Daawat Super Basmati Rice",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "Daawat Sehat Mini Mogra Basmati Rice",
+    "quantity": "5 kg",
+    "discounted_price": "26",
+    "actual_price": "32"
+  },
+  {
+    "name": "India Gate Mogra Basmati Rice",
+    "quantity": "5 kg",
+    "discounted_price": "36",
+    "actual_price": "40"
+  },
+  {
+    "name": "India Gate Tibar Basmati Rice",
+    "quantity": "1 kg",
+    "discounted_price": "12",
+    "actual_price": "14"
+  },
+  {
+    "name": "Pansari Mahak Mogra Basmati Rice",
+    "quantity": "10 kg",
+    "discounted_price": "52",
+    "actual_price": "72"
+  },
+  {
+    "name": "India Gate Mini II Mogra Basmati Rice",
+    "quantity": "10 kg",
+    "discounted_price": "36",
+    "actual_price": "42"
+  },
+  {
+    "name": "Aplus Ujjain Poha",
+    "quantity": "500 g",
+    "discounted_price": "36",
+    "actual_price": "60"
+  },
+  {
+    "name": "Aplus Daliya",
+    "quantity": "400 g",
+    "discounted_price": "25",
+    "actual_price": "38"
+  },
+  {
+    "name": "Rajdhani Mota Thick Poha",
+    "quantity": "500 g",
+    "discounted_price": "45",
+    "actual_price": "49"
+  },
+  {
+    "name": "Patanjali Regular Daliya",
+    "quantity": "500 g",
+    "discounted_price": "30",
+    "actual_price": "di"
+  },
+  {
+    "name": "Rajdhani Daliya",
+    "quantity": "500 g",
+    "discounted_price": "33",
+    "actual_price": "35"
+  },
+  {
+    "name": "24 Mantra Wheat Organic Daliya",
+    "quantity": "500 g",
+    "discounted_price": "48",
+    "actual_price": "di"
+  },
+  {
+    "name": "24 Mantra Organic Red Poha",
+    "quantity": "500 g",
+    "discounted_price": "84",
+    "actual_price": "85"
+  },
+  {
+    "name": "Organic Tattva Wheat Organic Daliya",
+    "quantity": "500 g",
+    "discounted_price": "39",
+    "actual_price": "55"
+  },
+  {
+    "name": "Organic Tattva Organic White Poha",
+    "quantity": "500 g",
+    "discounted_price": "50",
+    "actual_price": "70"
+  },
+  {
+    "name": "Natureland Porridge Wheat Organic Daliya",
+    "quantity": "500 g",
+    "discounted_price": "42",
+    "actual_price": "54"
+  },
+  {
+    "name": "Aplus Sabudana",
+    "quantity": "500 g",
+    "discounted_price": "59",
+    "actual_price": "75"
+  },
+  {
+    "name": "Rajdhani Roasted Daliya",
+    "quantity": "500 g",
+    "discounted_price": "42",
+    "actual_price": "45"
+  },
+  {
+    "name": "Aplus Bhuna Chana",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "Aplus Arhar Dal/Tur",
+    "quantity": "1 kg",
+    "discounted_price": "13",
+    "actual_price": "16"
+  },
+  {
+    "name": "Aplus Urad Dal (Chilka)",
+    "quantity": "1 kg",
+    "discounted_price": "13",
+    "actual_price": "16"
+  },
+  {
+    "name": "Aplus Urad (Sabut)",
+    "quantity": "1 kg",
+    "discounted_price": "13",
+    "actual_price": "16"
+  },
+  {
+    "name": "Aplus Urad Dal (Dhuli)",
+    "quantity": "1 kg",
+    "discounted_price": "14",
+    "actual_price": "19"
+  },
+  {
+    "name": "Tata Sampann Unpolished Arhar Dal/Toor Dal",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "Arhar Dal/Toor Dal",
+    "quantity": "1 kg",
+    "discounted_price": "12",
+    "actual_price": "22"
+  },
+  {
+    "name": "Tata Sampann Unpolished Chana Dal",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "Rajdhani Chana Dal",
+    "quantity": "1 kg",
+    "discounted_price": "71",
+    "actual_price": "11"
+  },
+  {
+    "name": "Black Urad (Sabut)",
+    "quantity": "1 kg",
+    "discounted_price": "11",
+    "actual_price": "23"
+  },
+  {
+    "name": "Tata Sampann Unpolished Urad (Sabut) Dal",
+    "quantity": "1 kg",
+    "discounted_price": "16",
+    "actual_price": "18"
+  },
+  {
+    "name": "Chana Kesari / Kala Chana",
+    "quantity": "1 kg",
+    "discounted_price": "81",
+    "actual_price": "13"
+  },
+  {
+    "name": "Urad Dal (Dhuli)",
+    "quantity": "1 kg",
+    "discounted_price": "12",
+    "actual_price": "25"
+  },
+  {
+    "name": "Tata Sampann Unpolished Kala Chana",
+    "quantity": "1 kg",
+    "discounted_price": "10",
+    "actual_price": "12"
+  },
+  {
+    "name": "GMC Arhar Dal/Toor Dal",
+    "quantity": "1 kg",
+    "discounted_price": "13",
+    "actual_price": "15"
+  },
+  {
+    "name": "24 Mantra Split Organic Urad Dal (Dhuli)",
+    "quantity": "500 g",
+    "discounted_price": "12",
+    "actual_price": "14"
+  },
+  {
+    "name": "Organic Tattva Organic Arhar Dal",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "Organic Tattva Organic Urad Dal (Dhuli)",
+    "quantity": "500 g",
+    "discounted_price": "10",
+    "actual_price": "14"
+  },
+  {
+    "name": "24 Mantra Organic Arhar Dal",
+    "quantity": "1 kg",
+    "discounted_price": "24",
+    "actual_price": "26"
+  },
+  {
+    "name": "Organic Tattva Organic Urad (Sabut), 500 g",
+    "quantity": "500 g",
+    "discounted_price": "10",
+    "actual_price": "14"
+  },
+  {
+    "name": "Aplus Masoor Sabut Small",
+    "quantity": "1 kg",
+    "discounted_price": "11",
+    "actual_price": "15"
+  },
+  {
+    "name": "Aplus Malka Masoor",
+    "quantity": "1 kg",
+    "discounted_price": "12",
+    "actual_price": "19"
+  },
+  {
+    "name": "Aplus Split Masoor Dal Bareek",
+    "quantity": "1 kg",
+    "discounted_price": "13",
+    "actual_price": "18"
+  },
+  {
+    "name": "Aplus Moong Dal (Chilka)",
+    "quantity": "1 kg",
+    "discounted_price": "12",
+    "actual_price": "18"
+  },
+  {
+    "name": "Aplus Moong (Sabut)",
+    "quantity": "1 kg",
+    "discounted_price": "11",
+    "actual_price": "15"
+  },
+  {
+    "name": "Tata Sampann Unpolished Split Moong Dal (Dhuli)",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "Tata Sampann Unpolished Split Yellow Moong Dal (Dhuli)",
+    "quantity": "500 g",
+    "discounted_price": "74",
+    "actual_price": "88"
+  },
+  {
+    "name": "Aplus Masoor Sabut Bold",
+    "quantity": "1 kg",
+    "discounted_price": "10",
+    "actual_price": "12"
+  },
+  {
+    "name": "Tata Sampann Unpolished Masoor Dal",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "Tata Sampann Whole Unpolished Dal Green Moong (Sabut)",
+    "quantity": "500 g",
+    "discounted_price": "70",
+    "actual_price": "83"
+  },
+  {
+    "name": "Aplus Split Masoor Dal Bold",
+    "quantity": "1 kg",
+    "discounted_price": "12",
+    "actual_price": "13"
+  },
+  {
+    "name": "Malka Masoor",
+    "quantity": "1 kg",
+    "discounted_price": "11",
+    "actual_price": "18"
+  },
+  {
+    "name": "Organic Tattva Malka Split Organic Masoor Dal",
+    "quantity": "1 kg",
+    "discounted_price": "15",
+    "actual_price": "22"
+  },
+  {
+    "name": "Organic Tattva Whole Organic Masoor Sabut",
+    "quantity": "500 g",
+    "discounted_price": "75",
+    "actual_price": "10"
+  },
+  {
+    "name": "24 Mantra Organic Masoor Sabut",
+    "quantity": "500 g",
+    "discounted_price": "88",
+    "actual_price": "10"
+  },
+  {
+    "name": "Organic Tattva Split Organic Masoor Dal",
+    "quantity": "500 g",
+    "discounted_price": "78",
+    "actual_price": "11"
+  },
+  {
+    "name": "Organic Tattva Split Organic Moong Dal (Dhuli)",
+    "quantity": "500 g",
+    "discounted_price": "85",
+    "actual_price": "13"
+  },
+  {
+    "name": "24 Mantra Organic Malka Masoor",
+    "quantity": "500 g",
+    "discounted_price": "92",
+    "actual_price": "11"
+  },
+  {
+    "name": "24 Mantra Split Organic Moong Dal (Chilka)",
+    "quantity": "500 g",
+    "discounted_price": "11",
+    "actual_price": "13"
+  },
+  {
+    "name": "Organic Tattva Organic Moong (Sabut)",
+    "quantity": "500 g",
+    "discounted_price": "89",
+    "actual_price": "12"
+  },
+  {
+    "name": "Aplus Kala Chana",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "Aplus Regular Lobia Beans",
+    "quantity": "1 kg",
+    "discounted_price": "11",
+    "actual_price": "19"
+  },
+  {
+    "name": "Aplus Chana Dal",
+    "quantity": "1 kg",
+    "discounted_price": "84",
+    "actual_price": "11"
+  },
+  {
+    "name": "Aplus Kabuli Chana Bold",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "Aplus Rajma Chitra",
+    "quantity": "1 kg",
+    "discounted_price": "18",
+    "actual_price": "23"
+  },
+  {
+    "name": "Aplus Moth Dal",
+    "quantity": "1 kg",
+    "discounted_price": "13",
+    "actual_price": "19"
+  },
+  {
+    "name": "Rajma Chitra",
+    "quantity": "1 kg",
+    "discounted_price": "10",
+    "actual_price": "23"
+  },
+  {
+    "name": "Aplus Soya Mini Chunks",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "Aplus Mix Dal",
+    "quantity": "1 kg",
+    "discounted_price": "12",
+    "actual_price": "15"
+  },
+  {
+    "name": "Aplus Red Rajma Sharmili",
+    "quantity": "1 kg",
+    "discounted_price": "14",
+    "actual_price": "17"
+  },
+  {
+    "name": "Aplus Soya Wari Granules",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "Aplus Soya Chunks",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "Aplus High Protien Soya Chunks",
+    "quantity": "200 g",
+    "discounted_price": "45",
+    "actual_price": "60"
+  },
+  {
+    "name": "Fortune Soya Mini Chunks - Pack of 2",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "Rajdhani Rajma Chitra",
+    "quantity": "1 kg",
+    "discounted_price": "21",
+    "actual_price": "25"
+  },
+  {
+    "name": "Tata Sampann Unpolished Rajma Chitra",
+    "quantity": "500 g",
+    "discounted_price": "11",
+    "actual_price": "13"
+  },
+  {
+    "name": "Tata Sampann Unpolished Kabuli Chana",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "Fortune Soya Chunks",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "Aplus Kabuli Chana SM",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "Nutrela Soya Mini Chunks",
+    "quantity": "200 g",
+    "discounted_price": "60",
+    "actual_price": "di"
+  },
+  {
+    "name": "Meatigo Curry Cut, Skinless Chicken",
+    "quantity": "450 g",
+    "discounted_price": "17",
+    "actual_price": "19"
+  },
+  {
+    "name": "Meatigo Boneless Chicken Breast",
+    "quantity": "450 g",
+    "discounted_price": "27",
+    "actual_price": "di"
+  },
+  {
+    "name": "Meatigo Boneless Chicken Thigh",
+    "quantity": "450 g",
+    "discounted_price": "27",
+    "actual_price": "29"
+  },
+  {
+    "name": "Yummiez Breakfast Chicken Sausage",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "Meatzza Fresh Mince Chicken Keema",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "Prasuma Original Chicken Momos",
+    "quantity": "24 pieces",
+    "discounted_price": "26",
+    "actual_price": "29"
+  },
+  {
+    "name": "Prasuma Original Chicken Momos",
+    "quantity": "10 pieces",
+    "discounted_price": "16",
+    "actual_price": "17"
+  },
+  {
+    "name": "ITC Master Chef Crunchy Chicken Nuggets",
+    "quantity": "450 g",
+    "discounted_price": "26",
+    "actual_price": "31"
+  },
+  {
+    "name": "Carnivore Chicken Seekh Regular Kebab",
+    "quantity": "500 g",
+    "discounted_price": "25",
+    "actual_price": "30"
+  },
+  {
+    "name": "ITC Master Chef Chicken Seekh Kebab",
+    "quantity": "500 g",
+    "discounted_price": "33",
+    "actual_price": "35"
+  },
+  {
+    "name": "Delichic Raw Chicken Liver",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "Carnivore Chicken Shami Kebab",
+    "quantity": "500 g",
+    "discounted_price": "28",
+    "actual_price": "34"
+  },
+  {
+    "name": "Delichic Spicy Chicken Salami",
+    "quantity": "250 g",
+    "discounted_price": "18",
+    "actual_price": "19"
+  },
+  {
+    "name": "Meatzza Fresh Raw Chicken Drumstick",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "Sumeru Wassup Piri Piri Chicken Popcorn - Buy 1 Get 1 Free",
+    "quantity": "450 g + 450 g",
+    "discounted_price": "34",
+    "actual_price": "di"
+  },
+  {
+    "name": "Delichic Chicken Herbs Sausage",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "Meatzza Fresh Boneless Raw Chicken Thigh",
+    "quantity": "500 g",
+    "discounted_price": "26",
+    "actual_price": "28"
+  },
+  {
+    "name": "Carnivore Chicken Seekh Kebab (Lime Pudina)",
+    "quantity": "500 g",
+    "discounted_price": "25",
+    "actual_price": "30"
+  },
+  {
+    "name": "Carnivore Chicken Sliced Muscles Ham Salami",
+    "quantity": "200 g",
+    "discounted_price": "17",
+    "actual_price": "20"
+  },
+  {
+    "name": "Meatzza Fresh Curry Cut Bone-in Raw Chicken",
+    "quantity": "500 g",
+    "discounted_price": "18",
+    "actual_price": "19"
+  },
+  {
+    "name": "Delichic Mutton Grilled Burger Patty",
+    "quantity": "300 g",
+    "discounted_price": "28",
+    "actual_price": "29"
+  },
+  {
+    "name": "Carnivore Mutton Seekh Kebab",
+    "quantity": "500 g",
+    "discounted_price": "40",
+    "actual_price": "48"
+  },
+  {
+    "name": "Sumeru Five Senses Prawns Medium",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "Delichic Basa Fish Boneless Fillet (Pangas)",
+    "quantity": "500 g",
+    "discounted_price": "33",
+    "actual_price": "di"
+  },
+  {
+    "name": "John West Tuna Chunks Tuna in Spring Water",
+    "quantity": "145 g",
+    "discounted_price": "34",
+    "actual_price": "36"
+  },
+  {
+    "name": "Delichic Flaky Prawns Momos",
+    "quantity": "8 units",
+    "discounted_price": "27",
+    "actual_price": "di"
+  },
+  {
+    "name": "Delichic Chicken Plain Salami",
+    "quantity": "250 g",
+    "discounted_price": "16",
+    "actual_price": "17"
+  },
+  {
+    "name": "Yummiez Chicken Breakfast Salami",
+    "quantity": "250 g",
+    "discounted_price": "15",
+    "actual_price": "16"
+  },
+  {
+    "name": "Delichic Black Pepper Chicken Salami",
+    "quantity": "250 g",
+    "discounted_price": "16",
+    "actual_price": "17"
+  },
+  {
+    "name": "Yummiez Breakfast Chicken Sausage",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "Delichic Spicy Chicken Salami",
+    "quantity": "250 g",
+    "discounted_price": "18",
+    "actual_price": "19"
+  },
+  {
+    "name": "Delichic Chicken Herbs Sausage",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "Carnivore Chicken Sliced Muscles Ham Salami",
+    "quantity": "200 g",
+    "discounted_price": "17",
+    "actual_price": "20"
+  },
+  {
+    "name": "Carnivore Plain Sliced Chicken Salami",
+    "quantity": "250 g",
+    "discounted_price": "14",
+    "actual_price": "17"
+  },
+  {
+    "name": "Carnivore Plain Chicken Sausage",
+    "quantity": "250 g",
+    "discounted_price": "14",
+    "actual_price": "17"
+  },
+  {
+    "name": "Delichic Smoked Golden Franks Chicken Sausage",
+    "quantity": "350 g",
+    "discounted_price": "29",
+    "actual_price": "di"
+  },
+  {
+    "name": "Carnivore Chicken Spicy Salami",
+    "quantity": "250 g",
+    "discounted_price": "14",
+    "actual_price": "17"
+  },
+  {
+    "name": "Carnivore Black Pepper Chicken Salami",
+    "quantity": "250 g",
+    "discounted_price": "14",
+    "actual_price": "17"
+  },
+  {
+    "name": "Carnivore Chicken Sausage Salami Masala",
+    "quantity": "250 g",
+    "discounted_price": "14",
+    "actual_price": "17"
+  },
+  {
+    "name": "Yummiez Breakfast Chicken Sausage",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "Meatzza Fresh Mince Chicken Keema",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "Carnivore Mutton Seekh Kebab",
+    "quantity": "500 g",
+    "discounted_price": "40",
+    "actual_price": "48"
+  },
+  {
+    "name": "Prasuma Original Chicken Momos",
+    "quantity": "24 pieces",
+    "discounted_price": "26",
+    "actual_price": "29"
+  },
+  {
+    "name": "Sumeru Five Senses Prawns Medium",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "Delichic Basa Fish Boneless Fillet (Pangas)",
+    "quantity": "500 g",
+    "discounted_price": "33",
+    "actual_price": "di"
+  },
+  {
+    "name": "Prasuma Original Chicken Momos",
+    "quantity": "10 pieces",
+    "discounted_price": "16",
+    "actual_price": "17"
+  },
+  {
+    "name": "ITC Master Chef Crunchy Chicken Nuggets",
+    "quantity": "450 g",
+    "discounted_price": "26",
+    "actual_price": "31"
+  },
+  {
+    "name": "Carnivore Chicken Seekh Regular Kebab",
+    "quantity": "500 g",
+    "discounted_price": "25",
+    "actual_price": "30"
+  },
+  {
+    "name": "ITC Master Chef Chicken Seekh Kebab",
+    "quantity": "500 g",
+    "discounted_price": "33",
+    "actual_price": "35"
+  },
+  {
+    "name": "Delichic Raw Chicken Liver",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "Carnivore Chicken Shami Kebab",
+    "quantity": "500 g",
+    "discounted_price": "28",
+    "actual_price": "34"
+  },
+  {
+    "name": "Delichic Spicy Chicken Salami",
+    "quantity": "250 g",
+    "discounted_price": "18",
+    "actual_price": "19"
+  },
+  {
+    "name": "Meatzza Fresh Raw Chicken Drumstick",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "Sumeru Wassup Piri Piri Chicken Popcorn - Buy 1 Get 1 Free",
+    "quantity": "450 g + 450 g",
+    "discounted_price": "34",
+    "actual_price": "di"
+  },
+  {
+    "name": "Delichic Chicken Herbs Sausage",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "Meatzza Fresh Boneless Raw Chicken Thigh",
+    "quantity": "500 g",
+    "discounted_price": "26",
+    "actual_price": "28"
+  },
+  {
+    "name": "Meatzza Krispy Fried Chicken",
+    "quantity": "500 g",
+    "discounted_price": "36",
+    "actual_price": "40"
+  },
+  {
+    "name": "Carnivore Chicken Seekh Kebab (Lime Pudina)",
+    "quantity": "500 g",
+    "discounted_price": "25",
+    "actual_price": "30"
+  },
+  {
+    "name": "Yummiez Chicken &amp; Cheese Nuggets",
+    "quantity": "325 g",
+    "discounted_price": "24",
+    "actual_price": "26"
+  },
+  {
+    "name": "Table White Eggs - 30 Pieces Tray",
+    "quantity": "30 pieces",
+    "discounted_price": "24",
+    "actual_price": "25"
+  },
+  {
+    "name": "Hen Fruit Farm Brown Eggs",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "Table White Eggs (6 pieces)",
+    "quantity": "1 pack (6 pieces)",
+    "discounted_price": "55",
+    "actual_price": "85"
+  },
+  {
+    "name": "Table White Eggs (10 pieces)",
+    "quantity": "1 pack (10 pieces)",
+    "discounted_price": "93",
+    "actual_price": "14"
+  },
+  {
+    "name": "Hen Fruit Pullet Eggs",
+    "quantity": "10 units",
+    "discounted_price": "77",
+    "actual_price": "11"
+  },
+  {
+    "name": "The Natural Fresh White Eggs - Pack of 2",
+    "quantity": "2 x 6 units",
+    "discounted_price": "14",
+    "actual_price": "17"
+  },
+  {
+    "name": "Hen Fruit Power Brown Eggs",
+    "quantity": "1 pack (10 pieces)",
+    "discounted_price": "11",
+    "actual_price": "18"
+  },
+  {
+    "name": "Hen Fruit Farm White Eggs",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "The Natural Fresh White Eggs - 30 pieces",
+    "quantity": "1 pack (30 pieces)",
+    "discounted_price": "24",
+    "actual_price": "31"
+  },
+  {
+    "name": "Hen Fruit MAX Protein Rich Eggs",
+    "quantity": "30 units",
+    "discounted_price": "28",
+    "actual_price": "39"
+  },
+  {
+    "name": "Hen Fruit Cornfed Speciality Eggs",
+    "quantity": "24 units",
+    "discounted_price": "20",
+    "actual_price": "31"
+  },
+  {
+    "name": "The Natural Fresh White Eggs - 10 pieces",
+    "quantity": "1 pack (10 pieces)",
+    "discounted_price": "11",
+    "actual_price": "14"
+  },
+  {
+    "name": "The Natural Fresh White Eggs - 6 pieces",
+    "quantity": "1 pack (6 pieces)",
+    "discounted_price": "71",
+    "actual_price": "85"
+  },
+  {
+    "name": "Hen Fruit White Protein Rich Eggs",
+    "quantity": "1 pack (10 pieces)",
+    "discounted_price": "98",
+    "actual_price": "14"
+  },
+  {
+    "name": "Monsoon Harvest Gluten - Free Jumbo Rolled Oats",
+    "quantity": "1.2 kg",
+    "discounted_price": "24",
+    "actual_price": "49"
+  },
+  {
+    "name": "Monsoon Harvest Crunchy Muesli with Fruits, Nuts and Seeds",
+    "quantity": "800 g",
+    "discounted_price": "28",
+    "actual_price": "57"
+  },
+  {
+    "name": "Monsoon Harvest Crunchy Muesli with Fruit, Nuts and Seeds",
+    "quantity": "200 g",
+    "discounted_price": "89",
+    "actual_price": "18"
+  },
+  {
+    "name": "Yoga Bar Dark Chocolate + Cranberry Muesli",
+    "quantity": "500 g",
+    "discounted_price": "26",
+    "actual_price": "45"
+  },
+  {
+    "name": "GHD Plain Oats",
+    "quantity": "1 kg",
+    "discounted_price": "84",
+    "actual_price": "19"
+  },
+  {
+    "name": "Kellogg's Moons &amp; Stars Cereals Chocos",
+    "quantity": "1.2 kg",
+    "discounted_price": "40",
+    "actual_price": "67"
+  },
+  {
+    "name": "Monsoon Harvest Crunchy Muesli with Raisins",
+    "quantity": "200 g",
+    "discounted_price": "89",
+    "actual_price": "18"
+  },
+  {
+    "name": "Kellogg's Muesli with 21% Fruit, Nut &amp; Seeds",
+    "quantity": "750 g",
+    "discounted_price": "40",
+    "actual_price": "46"
+  },
+  {
+    "name": "Saffola Classic Masala Oats",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "Tata Soulfull Desi Veggie Masala Oats + with Millets",
+    "quantity": "500 g",
+    "discounted_price": "20",
+    "actual_price": "di"
+  },
+  {
+    "name": "Tata Soulfull Mast Masala Oats + with Millets",
+    "quantity": "500 g",
+    "discounted_price": "20",
+    "actual_price": "di"
+  },
+  {
+    "name": "Bagrry's Plus - Original &amp; Healthier Corn Flakes",
+    "quantity": "880 g",
+    "discounted_price": "21",
+    "actual_price": "37"
+  },
+  {
+    "name": "Kellogg's Chocos Fills Double Chocolaty Snack Cereal",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "Bagrry's Crunchy - Almonds, Raisins &amp; Honey Muesli",
+    "quantity": "750 g",
+    "discounted_price": "37",
+    "actual_price": "47"
+  },
+  {
+    "name": "Bagrry's Crunchy Fruit &amp; Nut with Cranberries Muesli",
+    "quantity": "750 g",
+    "discounted_price": "39",
+    "actual_price": "52"
+  },
+  {
+    "name": "Kellogg's With Protein &amp; Fibre of 1 Roti in each bowl, High in Calcium &amp; Protein, With 10 Essential Vitamins &amp; Minerals, Breakfast Cereals Chocos",
+    "quantity": "1.2 kg",
+    "discounted_price": "49",
+    "actual_price": "di"
+  },
+  {
+    "name": "Kellogg's Real Almond Honey Corn Flakes",
+    "quantity": "1 kg",
+    "discounted_price": "50",
+    "actual_price": "57"
+  },
+  {
+    "name": "Bagrry's White Oats",
+    "quantity": "1 kg",
+    "discounted_price": "15",
+    "actual_price": "20"
+  },
+  {
+    "name": "Kellogg's Chocos Cereal",
+    "quantity": "6 units",
+    "discounted_price": "62",
+    "actual_price": "70"
+  },
+  {
+    "name": "Kellogg's Corn Flakes With Real Honey",
+    "quantity": "300 g",
+    "discounted_price": "15",
+    "actual_price": "di"
+  },
+  {
+    "name": "Maggi Masala 2 Minute Instant Noodles",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "Maggi Nutri-Licious Masala Veg Atta Noodles",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "Top Ramen Curry Veg Noodles - Pack of 2",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "Maggi Maggi Cuppa Noodles (Masala Cup) - Pack of 2",
+    "quantity": "2x70 g",
+    "discounted_price": "99",
+    "actual_price": "10"
+  },
+  {
+    "name": "Nissin Geki - Hot &amp; Spicy Korean Veg Flavoured Instant Noodles - Pack of 2",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "Nissin Geki - Hot &amp; Spicy Korean Chicken Flavoured Instant Noodles - Pack of 2",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "Ching's Just Soak Whole Wheat Hakka Noodles",
+    "quantity": "150 g",
+    "discounted_price": "32",
+    "actual_price": "di"
+  },
+  {
+    "name": "Top Ramen Masala Noodles (280 g) - Pack of 2",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "Ching's Just Soak Veg Hakka Noodles",
+    "quantity": "560 g",
+    "discounted_price": "12",
+    "actual_price": "di"
+  },
+  {
+    "name": "Nestle Maggi Cuppa Cup Noodles (Masala Cup)",
+    "quantity": "70 g",
+    "discounted_price": "50",
+    "actual_price": "di"
+  },
+  {
+    "name": "Maggi NUTRI-LICIOUS Masala Oats Noodles",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "Ching's Secret Hot Garlic Flavoured Instant Noodles",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "Ching's Secret Singapore Curry Flavoured Instant Noodles - Pack of 2",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "Ching's Secret Schezwan Flavoured Instant Noodles",
+    "quantity": "240 g",
+    "discounted_price": "59",
+    "actual_price": "60"
+  },
+  {
+    "name": "Nongshim Shin Red Super Spicy Noodles",
+    "quantity": "120 g",
+    "discounted_price": "10",
+    "actual_price": "di"
+  },
+  {
+    "name": "Nongshim Shin Cup Noodles",
+    "quantity": "68 g",
+    "discounted_price": "10",
+    "actual_price": "di"
+  },
+  {
+    "name": "Real Thai Rice Stick Pad Thai Noodles",
+    "quantity": "375 g",
+    "discounted_price": "21",
+    "actual_price": "di"
+  },
+  {
+    "name": "Maggi 2-Minute Special Masala Instant Noodles - Pack of 2",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "Maggi Special Masala Flavoured Instant Noodles - Pack of 2",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "Ching's Secret Just Soak Veg Hakka Noodles",
+    "quantity": "140 g",
+    "discounted_price": "30",
+    "actual_price": "di"
+  },
+  {
+    "name": "Sumeru Malabar Parantha",
+    "quantity": "300 g",
+    "discounted_price": "66",
+    "actual_price": "11"
+  },
+  {
+    "name": "JusVeg Soya Chaap",
+    "quantity": "500 g",
+    "discounted_price": "11",
+    "actual_price": "di"
+  },
+  {
+    "name": "ITC Master Chef Classic Aloo Tikki - Pack of 2",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "McCain Aloo Tikki",
+    "quantity": "760 g",
+    "discounted_price": "20",
+    "actual_price": "di"
+  },
+  {
+    "name": "McCain Smiles",
+    "quantity": "415 g",
+    "discounted_price": "12",
+    "actual_price": "di"
+  },
+  {
+    "name": "McCain Aloo Tikki",
+    "quantity": "400 g",
+    "discounted_price": "10",
+    "actual_price": "11"
+  },
+  {
+    "name": "Prasuma Veg and Paneer Momos",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "McCain French Fries",
+    "quantity": "750 g",
+    "discounted_price": "18",
+    "actual_price": "di"
+  },
+  {
+    "name": "SPT Frozen Soya Chaap - Pack of 2",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "ITC Master Chef Veggie Pizza Pocket",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "McCain Veggie Fingers",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "ITC Master Chef Crispy French Fries",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "McCain Veggie Nuggets",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "Safal Frozen French Fries",
+    "quantity": "400 g",
+    "discounted_price": "10",
+    "actual_price": "di"
+  },
+  {
+    "name": "McCain Potato Cheese Shotz Nuggets",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "McCain Chilli Garlic Potato Bites Nuggets",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "McCain Crispy Potato Smiles",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "McCain Veggie Burger Patty",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "McCain French Fries",
+    "quantity": "1.25 kg",
+    "discounted_price": "28",
+    "actual_price": "30"
+  },
+  {
+    "name": "Prasuma Cheesy Spicy Veg Momos",
+    "quantity": "24 pieces",
+    "discounted_price": "27",
+    "actual_price": "29"
+  },
+  {
+    "name": "Yummiez Breakfast Chicken Sausage",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "Meatzza Fresh Mince Chicken Keema",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "Carnivore Mutton Seekh Kebab",
+    "quantity": "500 g",
+    "discounted_price": "40",
+    "actual_price": "48"
+  },
+  {
+    "name": "Prasuma Original Chicken Momos",
+    "quantity": "24 pieces",
+    "discounted_price": "26",
+    "actual_price": "29"
+  },
+  {
+    "name": "Sumeru Five Senses Prawns Medium",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "Delichic Basa Fish Boneless Fillet (Pangas)",
+    "quantity": "500 g",
+    "discounted_price": "33",
+    "actual_price": "di"
+  },
+  {
+    "name": "Prasuma Original Chicken Momos",
+    "quantity": "10 pieces",
+    "discounted_price": "16",
+    "actual_price": "17"
+  },
+  {
+    "name": "ITC Master Chef Crunchy Chicken Nuggets",
+    "quantity": "450 g",
+    "discounted_price": "26",
+    "actual_price": "31"
+  },
+  {
+    "name": "Carnivore Chicken Seekh Regular Kebab",
+    "quantity": "500 g",
+    "discounted_price": "25",
+    "actual_price": "30"
+  },
+  {
+    "name": "ITC Master Chef Chicken Seekh Kebab",
+    "quantity": "500 g",
+    "discounted_price": "33",
+    "actual_price": "35"
+  },
+  {
+    "name": "Delichic Raw Chicken Liver",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "Carnivore Chicken Shami Kebab",
+    "quantity": "500 g",
+    "discounted_price": "28",
+    "actual_price": "34"
+  },
+  {
+    "name": "Delichic Spicy Chicken Salami",
+    "quantity": "250 g",
+    "discounted_price": "18",
+    "actual_price": "19"
+  },
+  {
+    "name": "Meatzza Fresh Raw Chicken Drumstick",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "Sumeru Wassup Piri Piri Chicken Popcorn - Buy 1 Get 1 Free",
+    "quantity": "450 g + 450 g",
+    "discounted_price": "34",
+    "actual_price": "di"
+  },
+  {
+    "name": "Delichic Chicken Herbs Sausage",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "Meatzza Fresh Boneless Raw Chicken Thigh",
+    "quantity": "500 g",
+    "discounted_price": "26",
+    "actual_price": "28"
+  },
+  {
+    "name": "Meatzza Krispy Fried Chicken",
+    "quantity": "500 g",
+    "discounted_price": "36",
+    "actual_price": "40"
+  },
+  {
+    "name": "Carnivore Chicken Seekh Kebab (Lime Pudina)",
+    "quantity": "500 g",
+    "discounted_price": "25",
+    "actual_price": "30"
+  },
+  {
+    "name": "Yummiez Chicken &amp; Cheese Nuggets",
+    "quantity": "325 g",
+    "discounted_price": "24",
+    "actual_price": "26"
+  },
+  {
+    "name": "SPT Frozen Green Peas",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "Farmland Frozen Sweet Corn",
+    "quantity": "1 kg",
+    "discounted_price": "12",
+    "actual_price": "20"
+  },
+  {
+    "name": "Safal Sweet Corn",
+    "quantity": "500 g",
+    "discounted_price": "85",
+    "actual_price": "10"
+  },
+  {
+    "name": "SPT American Frozen Sweet Corn",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "Safal Green Peas",
+    "quantity": "500 g",
+    "discounted_price": "11",
+    "actual_price": "13"
+  },
+  {
+    "name": "Sofal",
+    "quantity": "500 g",
+    "discounted_price": "68",
+    "actual_price": "80"
+  },
+  {
+    "name": "SPT Frozen Mixed Vegetables",
+    "quantity": "500 g",
+    "discounted_price": "59",
+    "actual_price": "12"
+  },
+  {
+    "name": "Sumeru Classiques Frozen Green Peas - Buy 1 Get 1 Free",
+    "quantity": "2 x 500 g",
+    "discounted_price": "14",
+    "actual_price": "15"
+  },
+  {
+    "name": "Sumeru Classiques Sweet Corn - Buy 1 Get 1 Free",
+    "quantity": "500 g + 500 g Free",
+    "discounted_price": "15",
+    "actual_price": "di"
+  },
+  {
+    "name": "JusVeg Frozen Green Peas",
+    "quantity": "500 g",
+    "discounted_price": "15",
+    "actual_price": "di"
+  },
+  {
+    "name": "Farmland Frozen Green Peas",
+    "quantity": "1 kg",
+    "discounted_price": "15",
+    "actual_price": "24"
+  },
+  {
+    "name": "Bambino Regular Vermicelli",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "Bambino Roasted Vermicelli",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "MTR (Seviyan) Regular Vermicelli",
+    "quantity": "875 g",
+    "discounted_price": "68",
+    "actual_price": "87"
+  },
+  {
+    "name": "MTR Roasted Vermicelli",
+    "quantity": "850 g",
+    "discounted_price": "93",
+    "actual_price": "11"
+  },
+  {
+    "name": "MTR Upma Breakfast Mix",
+    "quantity": "160 g",
+    "discounted_price": "55",
+    "actual_price": "di"
+  },
+  {
+    "name": "MTR 3 Minute Khatta Meetha Poha Breakfast Mix - Pack of 5",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "MTR 3 Minute Poha Breakfast Mix - Pack of 5",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "MTR 3 Minute Vegetable Upma Breakfast Mix - Pack of 5",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "MTR Rava Idli Breakfast Mix",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "MTR Masala Rava Idli Breakfast Mix",
+    "quantity": "500 g",
+    "discounted_price": "10",
+    "actual_price": "13"
+  },
+  {
+    "name": "MTR Rava Dosa Breakfast Mix",
+    "quantity": "500 g",
+    "discounted_price": "12",
+    "actual_price": "14"
+  },
+  {
+    "name": "MTR Sambhar Instant Mix",
+    "quantity": "180 g",
+    "discounted_price": "95",
+    "actual_price": "di"
+  },
+  {
+    "name": "MTR Dosa Breakfast Mix",
+    "quantity": "500 g",
+    "discounted_price": "12",
+    "actual_price": "13"
+  },
+  {
+    "name": "MTR Khaman Dhokla- Instant Mix",
+    "quantity": "160 g",
+    "discounted_price": "65",
+    "actual_price": "di"
+  },
+  {
+    "name": "MTR Rice Idli Breakfast Mix",
+    "quantity": "500 g",
+    "discounted_price": "11",
+    "actual_price": "13"
+  },
+  {
+    "name": "MTR Vermicelli- Upma",
+    "quantity": "160 g",
+    "discounted_price": "65",
+    "actual_price": "di"
+  },
+  {
+    "name": "MTR Uttappam Breakfast Mix",
+    "quantity": "500 g",
+    "discounted_price": "14",
+    "actual_price": "di"
+  },
+  {
+    "name": "MTR Vada Breakfast Mix",
+    "quantity": "500 g",
+    "discounted_price": "20",
+    "actual_price": "di"
+  },
+  {
+    "name": "GMC Seviya Kheer Dessert Mix",
+    "quantity": "200 g",
+    "discounted_price": "37",
+    "actual_price": "75"
+  },
+  {
+    "name": "MTR Gulab Jamun Dessert Mix",
+    "quantity": "2 x 160 g",
+    "discounted_price": "13",
+    "actual_price": "di"
+  },
+  {
+    "name": "Weikfield Kesar Pista Falooda Dessert Mix",
+    "quantity": "200 g",
+    "discounted_price": "49",
+    "actual_price": "55"
+  },
+  {
+    "name": "Weikfield Rose Falooda Dessert Mix",
+    "quantity": "200 g",
+    "discounted_price": "49",
+    "actual_price": "55"
+  },
+  {
+    "name": "Sumeru Malabar Parantha",
+    "quantity": "300 g",
+    "discounted_price": "66",
+    "actual_price": "11"
+  },
+  {
+    "name": "JusVeg Soya Chaap",
+    "quantity": "500 g",
+    "discounted_price": "11",
+    "actual_price": "di"
+  },
+  {
+    "name": "Rishta Multigrain Speciality Idli Dosa Batter",
+    "quantity": "800 g",
+    "discounted_price": "92",
+    "actual_price": "12"
+  },
+  {
+    "name": "Slurrp Farm Millet Banana Pancake Mix (Choco-Chip &amp; Supergrains)",
+    "quantity": "150 g",
+    "discounted_price": "13",
+    "actual_price": "14"
+  },
+  {
+    "name": "Slurrp Farm Millet Pancake Mix (Blueberry &amp; Supergrains Waffle)",
+    "quantity": "150 g",
+    "discounted_price": "18",
+    "actual_price": "19"
+  },
+  {
+    "name": "Slurrp Farm Millet Classic &amp; Supergrains Waffle &amp; Pancake Mix",
+    "quantity": "150 g",
+    "discounted_price": "13",
+    "actual_price": "14"
+  },
+  {
+    "name": "Slurrp Farm Millet Chocolate &amp; Supergrains Pancake Mix",
+    "quantity": "150 g",
+    "discounted_price": "13",
+    "actual_price": "14"
+  },
+  {
+    "name": "Disano Elbows Pasta (Imported)",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "Bambino Elbows Macaroni",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "Chef's Basket Durum Wheat Penne Domestic Pasta",
+    "quantity": "500 g",
+    "discounted_price": "78",
+    "actual_price": "17"
+  },
+  {
+    "name": "Sunfeast Yippee Cheese Instant Pasta Treat - Pack of 2",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "Borges Spaghetti Imported Pasta",
+    "quantity": "500 g",
+    "discounted_price": "14",
+    "actual_price": "25"
+  },
+  {
+    "name": "Borges Farfalle Imported Pasta",
+    "quantity": "250 g",
+    "discounted_price": "14",
+    "actual_price": "25"
+  },
+  {
+    "name": "WickedGud Penne Pasta",
+    "quantity": "450 g",
+    "discounted_price": "25",
+    "actual_price": "di"
+  },
+  {
+    "name": "Borges Penne Rigate Durum Wheat Imported Pasta",
+    "quantity": "500 g",
+    "discounted_price": "14",
+    "actual_price": "25"
+  },
+  {
+    "name": "Maggi Masala Penne Instant Pasta - Pack of 2",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "Maggi Cheese Macaroni Instant Pasta - Pack of 2",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "Bambino Premium Penne Domestic Pasta",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "Disano Pastalicious Penne Domestic Pasta - Pack of 2",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "Sunfeast Yippee Tricolor Creamy Corn Instant Pasta - Pack of 2",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "Disano Pastalicious Elbows Domestic Pasta - Pack of 2",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "Disano Pastalicious Fusilli Domestic Pasta - Pack of 2",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "WickedGud Fusilli Pasta",
+    "quantity": "400 g",
+    "discounted_price": "21",
+    "actual_price": "22"
+  },
+  {
+    "name": "Maggi Cheesy Tomato Twist Instant Pasta - Pack of 2",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "Sunfeast Yippee Tricolor Masala Instant Pasta - Pack of 2",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "Bambino Premium Spirali Domestic Pasta",
+    "quantity": "500 g",
+    "discounted_price": "89",
+    "actual_price": "di"
+  },
+  {
+    "name": "Borges Fusilli Durum Wheat Imported Pasta",
+    "quantity": "500 g",
+    "discounted_price": "14",
+    "actual_price": "25"
+  },
+  {
+    "name": "Yoga Bar Chunk Nut Nutrition Bar - Pack of 2",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "Yoga Bar Breakfast Apricot Fig Protein Bar - Pack of 2",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "Yoga Bar Chocolate Brownie Protein Bar",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "RiteBite Max Protein Daily Choco Almond Protein Bar - Pack of 2",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "RiteBite Max Protein Daily Choco Berry Protein Bar - Pack of 2",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "RiteBite Max Protein Daily Choco Classic Nutrition Bar - Pack of 2",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "RiteBite Max Protein Active Choco Fudge Nutrition Bar",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "Yoga Bars Nuts &amp; Seeds Nutrition Bar - Pack of 2",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "Yoga Bar Breakfast Blueberry Pie Protein Bar",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "RiteBite Max Protein Active Choco Slim Nutrition Bar",
+    "quantity": "67 g",
+    "discounted_price": "10",
+    "actual_price": "12"
+  },
+  {
+    "name": "RiteBite Peanut Butter Dark Chocolate Quinoa Crispies Oats Nutrition Bar - Pack of 2",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "RiteBite Choco Delite Breakfast Bar",
+    "quantity": "40 g",
+    "discounted_price": "34",
+    "actual_price": "40"
+  },
+  {
+    "name": "Veeba Chilli Cumin Harissa Salad Dressing",
+    "quantity": "300 g",
+    "discounted_price": "17",
+    "actual_price": "di"
+  },
+  {
+    "name": "Cremica Italian Salad Dressing",
+    "quantity": "350 g",
+    "discounted_price": "18",
+    "actual_price": "di"
+  },
+  {
+    "name": "Cremica Thousand Island Salad Dressing",
+    "quantity": "350 g",
+    "discounted_price": "18",
+    "actual_price": "di"
+  },
+  {
+    "name": "Wingreens Farms Thousand Island Salad Dressing - Pack of 2",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "Disano Apple Cider Filtered Vinegar",
+    "quantity": "500 ml",
+    "discounted_price": "13",
+    "actual_price": "24"
+  },
+  {
+    "name": "Veeba Thousand Island Salad Dressing",
+    "quantity": "300 g",
+    "discounted_price": "15",
+    "actual_price": "di"
+  },
+  {
+    "name": "Veeba Chipotle Southwest Salad Dressing",
+    "quantity": "300 g",
+    "discounted_price": "17",
+    "actual_price": "di"
+  },
+  {
+    "name": "Ching's Secret Chilli Vinegar",
+    "quantity": "170 ml",
+    "discounted_price": "47",
+    "actual_price": "50"
+  },
+  {
+    "name": "Dabur Himalayan Apple Cider Vinegar",
+    "quantity": "500 ml",
+    "discounted_price": "37",
+    "actual_price": "di"
+  },
+  {
+    "name": "Veeba Cheese &amp; Jalapeno Dip",
+    "quantity": "300 g",
+    "discounted_price": "13",
+    "actual_price": "14"
+  },
+  {
+    "name": "Cornitos Salsa Dip 4-In-1",
+    "quantity": "200 g",
+    "discounted_price": "10",
+    "actual_price": "11"
+  },
+  {
+    "name": "Tops Premium Synthetic (White) Vinegar",
+    "quantity": "610 ml",
+    "discounted_price": "57",
+    "actual_price": "60"
+  },
+  {
+    "name": "Dabur Chyawanprash",
+    "quantity": "2 kg",
+    "discounted_price": "62",
+    "actual_price": "68"
+  },
+  {
+    "name": "Patanjali Chyawanprash",
+    "quantity": "1 kg",
+    "discounted_price": "21",
+    "actual_price": "di"
+  },
+  {
+    "name": "Dabur Chyawanprash Sugar Free",
+    "quantity": "900 g",
+    "discounted_price": "38",
+    "actual_price": "41"
+  },
+  {
+    "name": "Dabur 2X Immunity Chyawanprash",
+    "quantity": "950 g",
+    "discounted_price": "33",
+    "actual_price": "37"
+  },
+  {
+    "name": "Dabur 2 X Immunity Chyawanprash - Get 50 g Free",
+    "quantity": "500 g + 50 g",
+    "discounted_price": "20",
+    "actual_price": "21"
+  },
+  {
+    "name": "Aplus Italian Seasoning Oregano",
+    "quantity": "100 g",
+    "discounted_price": "64",
+    "actual_price": "15"
+  },
+  {
+    "name": "Keya Pizza Oregano + Keya Italian Tomato Soup Combo",
+    "quantity": "80 g + 53 g",
+    "discounted_price": "13",
+    "actual_price": "16"
+  },
+  {
+    "name": "Keya Pasta Seasoning",
+    "quantity": "45 g",
+    "discounted_price": "93",
+    "actual_price": "10"
+  },
+  {
+    "name": "Keya Mixed Herbs Seasoning",
+    "quantity": "20 g",
+    "discounted_price": "93",
+    "actual_price": "10"
+  },
+  {
+    "name": "Keya Pizza Seasoning",
+    "quantity": "45 g",
+    "discounted_price": "93",
+    "actual_price": "10"
+  },
+  {
+    "name": "Keya Oregano",
+    "quantity": "11 g",
+    "discounted_price": "93",
+    "actual_price": "10"
+  },
+  {
+    "name": "Keya Red Chilli Flakes",
+    "quantity": "40 g",
+    "discounted_price": "68",
+    "actual_price": "79"
+  },
+  {
+    "name": "Orika Schezwan Mix Seasoning",
+    "quantity": "75 g",
+    "discounted_price": "56",
+    "actual_price": "60"
+  },
+  {
+    "name": "Keya Pizza Oregano",
+    "quantity": "80 g",
+    "discounted_price": "95",
+    "actual_price": "10"
+  },
+  {
+    "name": "Orika Hyderabadi Biryani Seasoning",
+    "quantity": "75 g",
+    "discounted_price": "82",
+    "actual_price": "89"
+  },
+  {
+    "name": "Orika All Purpose Mexican Seasoning",
+    "quantity": "95 g",
+    "discounted_price": "10",
+    "actual_price": "12"
+  },
+  {
+    "name": "Orika Turkish Oregano",
+    "quantity": "26 g",
+    "discounted_price": "10",
+    "actual_price": "11"
+  },
+  {
+    "name": "Keya Lemongrass",
+    "quantity": "15 g",
+    "discounted_price": "10",
+    "actual_price": "di"
+  },
+  {
+    "name": "Orika Peri-Peri Seasoning",
+    "quantity": "75 g",
+    "discounted_price": "86",
+    "actual_price": "89"
+  },
+  {
+    "name": "Orika Italian Seasoning",
+    "quantity": "42.5 g",
+    "discounted_price": "91",
+    "actual_price": "99"
+  },
+  {
+    "name": "Keya Parsley Leaves",
+    "quantity": "15 g",
+    "discounted_price": "93",
+    "actual_price": "10"
+  },
+  {
+    "name": "Keya Italian Seasoning",
+    "quantity": "30 g",
+    "discounted_price": "95",
+    "actual_price": "10"
+  },
+  {
+    "name": "On1y Basil Leaves",
+    "quantity": "14 g",
+    "discounted_price": "92",
+    "actual_price": "99"
+  },
+  {
+    "name": "Orika Red Chilli Flakes",
+    "quantity": "51 g",
+    "discounted_price": "69",
+    "actual_price": "75"
+  },
+  {
+    "name": "On1y Oregano",
+    "quantity": "10 g",
+    "discounted_price": "91",
+    "actual_price": "99"
+  },
+  {
+    "name": "Real Fruit Power Masala Mixed Fruit Juice - Pack of 2",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "Del Monte Four Season Mixed Fruit Drink",
+    "quantity": "240 ml",
+    "discounted_price": "36",
+    "actual_price": "60"
+  },
+  {
+    "name": "Real Masala Pomegranate Juice - Pack of 2",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "Real Masala Guava Juice - Pack of 2",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "Real Fruit Power Guava Juice",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "Slice Thickest Mango Drink",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "Fresca Litchi Juice - Pack of 2",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "Fresca Guava Juice - Pack of 2",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "Paper Boat Aam Panna, Mango Drink - Pack of 2",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "Tropicana Mixed Fruit Delight Juice",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "Real Fruit Power Orange Juice",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "Fresca Orange Juice",
+    "quantity": "1 l",
+    "discounted_price": "42",
+    "actual_price": "80"
+  },
+  {
+    "name": "Fresca Mix Fruit Juice - Pack of 2",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "Real Fruit Power Mixed Fruit Juice 1 l",
+    "quantity": "1 l",
+    "discounted_price": "10",
+    "actual_price": "11"
+  },
+  {
+    "name": "Fresca Mango Drink",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "Paper Boat Aamras, Mango Drink - Pack of 2",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "Real Fruit Power Pomegranate Juice (1 l)",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "Slice Thickest Mango Drink",
+    "quantity": "600 ml",
+    "discounted_price": "38",
+    "actual_price": "40"
+  },
+  {
+    "name": "Maaza Mango Drink 1.2 l",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "Real Fruit Power Cranberry Juice",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "Veeba Schezwan Stir-Fry Sauce",
+    "quantity": "250 g",
+    "discounted_price": "79",
+    "actual_price": "89"
+  },
+  {
+    "name": "Ching's Secret Superior Dark Soy Sauce",
+    "quantity": "210 g",
+    "discounted_price": "54",
+    "actual_price": "55"
+  },
+  {
+    "name": "Ching's Secret Dark Soy Sauce",
+    "quantity": "750 g",
+    "discounted_price": "81",
+    "actual_price": "85"
+  },
+  {
+    "name": "Ching's Secret Chilli Sauce",
+    "quantity": "680 g",
+    "discounted_price": "81",
+    "actual_price": "85"
+  },
+  {
+    "name": "Ching's Secret Red Chilli Sauce",
+    "quantity": "200 g",
+    "discounted_price": "54",
+    "actual_price": "55"
+  },
+  {
+    "name": "Wingreens Farms Traditional Recipe Schezwan Chilli Garlic Sauce",
+    "quantity": "450 g",
+    "discounted_price": "11",
+    "actual_price": "14"
+  },
+  {
+    "name": "Tops Red Chilli Sauce",
+    "quantity": "200 g",
+    "discounted_price": "52",
+    "actual_price": "60"
+  },
+  {
+    "name": "Maggi Hot &amp; Sweet Tomato Chilli Sauce",
+    "quantity": "200 g",
+    "discounted_price": "70",
+    "actual_price": "di"
+  },
+  {
+    "name": "Real Thai Sweet Chilli Sauce",
+    "quantity": "235 ml",
+    "discounted_price": "18",
+    "actual_price": "di"
+  },
+  {
+    "name": "Mother's Recipe Soy Sauce",
+    "quantity": "240 g",
+    "discounted_price": "50",
+    "actual_price": "55"
+  },
+  {
+    "name": "Tops Dark Soy Sauce",
+    "quantity": "220 g",
+    "discounted_price": "52",
+    "actual_price": "60"
+  },
+  {
+    "name": "Bonn Brown Bread",
+    "quantity": "400 g",
+    "discounted_price": "43",
+    "actual_price": "45"
+  },
+  {
+    "name": "Bonn Atta Whole Wheat Bread",
+    "quantity": "400 g",
+    "discounted_price": "43",
+    "actual_price": "45"
+  },
+  {
+    "name": "Kitty Soft White Bread",
+    "quantity": "250 g",
+    "discounted_price": "24",
+    "actual_price": "25"
+  },
+  {
+    "name": "Bonn Multigrain Hi-Fibre Bread",
+    "quantity": "200 g",
+    "discounted_price": "35",
+    "actual_price": "di"
+  },
+  {
+    "name": "Kitty Pizza Base",
+    "quantity": "200 g",
+    "discounted_price": "45",
+    "actual_price": "di"
+  },
+  {
+    "name": "Kitty Hi-Fiber Brown Bread",
+    "quantity": "400 g",
+    "discounted_price": "43",
+    "actual_price": "45"
+  },
+  {
+    "name": "Kitty Premium Bake Sandwich Bread",
+    "quantity": "700 g",
+    "discounted_price": "53",
+    "actual_price": "55"
+  },
+  {
+    "name": "Kitty Garlic Bread",
+    "quantity": "200 g",
+    "discounted_price": "34",
+    "actual_price": "35"
+  },
+  {
+    "name": "Kitty Bombay Pav",
+    "quantity": "350 g",
+    "discounted_price": "43",
+    "actual_price": "45"
+  },
+  {
+    "name": "La Americana Whole Wheat Bran Brown Bread",
+    "quantity": "350 g",
+    "discounted_price": "55",
+    "actual_price": "di"
+  },
+  {
+    "name": "La Americana Whole Wheat Multi Grain Brown Bread",
+    "quantity": "350 g",
+    "discounted_price": "60",
+    "actual_price": "di"
+  },
+  {
+    "name": "Kitty Sweet Bun",
+    "quantity": "100 g",
+    "discounted_price": "15",
+    "actual_price": "di"
+  },
+  {
+    "name": "Kitty Kulcha",
+    "quantity": "200 g",
+    "discounted_price": "38",
+    "actual_price": "40"
+  },
+  {
+    "name": "Kitty Burger Burger Bun",
+    "quantity": "225 g",
+    "discounted_price": "34",
+    "actual_price": "35"
+  },
+  {
+    "name": "Table White Eggs - 30 Pieces Tray",
+    "quantity": "30 pieces",
+    "discounted_price": "24",
+    "actual_price": "25"
+  },
+  {
+    "name": "Hen Fruit Farm Brown Eggs",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "Table White Eggs (6 pieces)",
+    "quantity": "1 pack (6 pieces)",
+    "discounted_price": "55",
+    "actual_price": "85"
+  },
+  {
+    "name": "Table White Eggs (10 pieces)",
+    "quantity": "1 pack (10 pieces)",
+    "discounted_price": "93",
+    "actual_price": "14"
+  },
+  {
+    "name": "Hen Fruit Pullet Eggs",
+    "quantity": "10 units",
+    "discounted_price": "77",
+    "actual_price": "11"
+  },
+  {
+    "name": "The Natural Fresh White Eggs - Pack of 2",
+    "quantity": "2 x 6 units",
+    "discounted_price": "14",
+    "actual_price": "17"
+  },
+  {
+    "name": "Hen Fruit Power Brown Eggs",
+    "quantity": "1 pack (10 pieces)",
+    "discounted_price": "11",
+    "actual_price": "18"
+  },
+  {
+    "name": "Hen Fruit Farm White Eggs",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "The Natural Fresh White Eggs - 30 pieces",
+    "quantity": "1 pack (30 pieces)",
+    "discounted_price": "24",
+    "actual_price": "31"
+  },
+  {
+    "name": "Hen Fruit MAX Protein Rich Eggs",
+    "quantity": "30 units",
+    "discounted_price": "28",
+    "actual_price": "39"
+  },
+  {
+    "name": "Hen Fruit Cornfed Speciality Eggs",
+    "quantity": "24 units",
+    "discounted_price": "20",
+    "actual_price": "31"
+  },
+  {
+    "name": "The Natural Fresh White Eggs - 10 pieces",
+    "quantity": "1 pack (10 pieces)",
+    "discounted_price": "11",
+    "actual_price": "14"
+  },
+  {
+    "name": "The Natural Fresh White Eggs - 6 pieces",
+    "quantity": "1 pack (6 pieces)",
+    "discounted_price": "71",
+    "actual_price": "85"
+  },
+  {
+    "name": "Hen Fruit White Protein Rich Eggs",
+    "quantity": "1 pack (10 pieces)",
+    "discounted_price": "98",
+    "actual_price": "14"
+  },
+  {
+    "name": "Aplus Ujjain Poha",
+    "quantity": "500 g",
+    "discounted_price": "36",
+    "actual_price": "60"
+  },
+  {
+    "name": "Aplus Daliya",
+    "quantity": "400 g",
+    "discounted_price": "25",
+    "actual_price": "38"
+  },
+  {
+    "name": "Rajdhani Mota Thick Poha",
+    "quantity": "500 g",
+    "discounted_price": "45",
+    "actual_price": "49"
+  },
+  {
+    "name": "Patanjali Regular Daliya",
+    "quantity": "500 g",
+    "discounted_price": "30",
+    "actual_price": "di"
+  },
+  {
+    "name": "Rajdhani Daliya",
+    "quantity": "500 g",
+    "discounted_price": "33",
+    "actual_price": "35"
+  },
+  {
+    "name": "24 Mantra Wheat Organic Daliya",
+    "quantity": "500 g",
+    "discounted_price": "48",
+    "actual_price": "di"
+  },
+  {
+    "name": "24 Mantra Organic Red Poha",
+    "quantity": "500 g",
+    "discounted_price": "84",
+    "actual_price": "85"
+  },
+  {
+    "name": "Organic Tattva Wheat Organic Daliya",
+    "quantity": "500 g",
+    "discounted_price": "39",
+    "actual_price": "55"
+  },
+  {
+    "name": "Organic Tattva Organic White Poha",
+    "quantity": "500 g",
+    "discounted_price": "50",
+    "actual_price": "70"
+  },
+  {
+    "name": "Natureland Porridge Wheat Organic Daliya",
+    "quantity": "500 g",
+    "discounted_price": "42",
+    "actual_price": "54"
+  },
+  {
+    "name": "Aplus Sabudana",
+    "quantity": "500 g",
+    "discounted_price": "59",
+    "actual_price": "75"
+  },
+  {
+    "name": "Rajdhani Roasted Daliya",
+    "quantity": "500 g",
+    "discounted_price": "42",
+    "actual_price": "45"
+  },
+  {
+    "name": "Del Monte Black Sliced Olives",
+    "quantity": "450 g",
+    "discounted_price": "23",
+    "actual_price": "25"
+  },
+  {
+    "name": "Del Monte Sliced Pineapple",
+    "quantity": "439 g",
+    "discounted_price": "13",
+    "actual_price": "14"
+  },
+  {
+    "name": "Tata Q Saucy Tomato Pasta with Veggies Ready to Eat",
+    "quantity": "290 g",
+    "discounted_price": "85",
+    "actual_price": "99"
+  },
+  {
+    "name": "Tata Q Hot &amp; Spicy Schezwan Noodles with Veggies Ready to Eat",
+    "quantity": "290 g",
+    "discounted_price": "85",
+    "actual_price": "99"
+  },
+  {
+    "name": "Del Monte Green Sliced Olives",
+    "quantity": "450 g",
+    "discounted_price": "23",
+    "actual_price": "25"
+  },
+  {
+    "name": "Del Monte Pitted Black Olives",
+    "quantity": "450 g",
+    "discounted_price": "23",
+    "actual_price": "25"
+  },
+  {
+    "name": "Del Monte Pitted Green Olives",
+    "quantity": "450 g",
+    "discounted_price": "23",
+    "actual_price": "25"
+  },
+  {
+    "name": "Tata Q Spicy Chicken Biryani Ready to Eat",
+    "quantity": "330 g",
+    "discounted_price": "10",
+    "actual_price": "15"
+  },
+  {
+    "name": "MTR Paneer Butter Masala Ready to Eat",
+    "quantity": "300 g",
+    "discounted_price": "14",
+    "actual_price": "di"
+  },
+  {
+    "name": "Tata Q Hot &amp; Spicy Schezwan Noodles with Chicken Ready to Eat",
+    "quantity": "305 g",
+    "discounted_price": "10",
+    "actual_price": "12"
+  },
+  {
+    "name": "Del Monte Cream Style Sweet Corn",
+    "quantity": "420 g",
+    "discounted_price": "86",
+    "actual_price": "90"
+  },
+  {
+    "name": "Real Thai UHT Coconut Milk",
+    "quantity": "250 ml",
+    "discounted_price": "11",
+    "actual_price": "di"
+  },
+  {
+    "name": "Dabur Hommade Coconut Milk",
+    "quantity": "200 ml",
+    "discounted_price": "69",
+    "actual_price": "75"
+  },
+  {
+    "name": "Dabur Hommade Goodness of 2 Creamy Coconuts, Coconut Milk - Pack of 2",
+    "quantity": "2 x 200 ml",
+    "discounted_price": "13",
+    "actual_price": "15"
+  },
+  {
+    "name": "John West Tuna Chunks Tuna in Spring Water",
+    "quantity": "145 g",
+    "discounted_price": "34",
+    "actual_price": "36"
+  },
+  {
+    "name": "MTR Dal Makhani Ready to Eat",
+    "quantity": "300 g",
+    "discounted_price": "11",
+    "actual_price": "di"
+  },
+  {
+    "name": "Wingreens Farms Premium Veg Mayonnaise - Pack of 2",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "Wingreens Farms Chipotle Sandwich Spread",
+    "quantity": "180 g",
+    "discounted_price": "10",
+    "actual_price": "20"
+  },
+  {
+    "name": "Wingreens Farms Jalapeno Cheese Dip",
+    "quantity": "150 g",
+    "discounted_price": "11",
+    "actual_price": "25"
+  },
+  {
+    "name": "Britannia Cream Cheese Spread",
+    "quantity": "100 g",
+    "discounted_price": "76",
+    "actual_price": "11"
+  },
+  {
+    "name": "Del Monte Eggless Mayonnaise",
+    "quantity": "900 g",
+    "discounted_price": "17",
+    "actual_price": "19"
+  },
+  {
+    "name": "Dr. Oetker FunFoods Veg Original Mayonnaise",
+    "quantity": "875 g",
+    "discounted_price": "19",
+    "actual_price": "21"
+  },
+  {
+    "name": "Dr. Oetker FunFoods Veg Mayonnaise (Original)",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "Veeba Eggless Chef's Special Mayonnaise",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "Wingreens Farms Italian Herb Mayonnaise",
+    "quantity": "450 g",
+    "discounted_price": "15",
+    "actual_price": "19"
+  },
+  {
+    "name": "Wingreens Farms Tandoori Flavoured Mayonnaise - Pack of 2",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "Wingreens Farms Chipotle Flavoured Mayonnaise - Pack of 2",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "Veeba American Mustard Sauce",
+    "quantity": "320 g",
+    "discounted_price": "13",
+    "actual_price": "di"
+  },
+  {
+    "name": "Britannia Classic - Cheese Spread 100 g",
+    "quantity": "100 g",
+    "discounted_price": "53",
+    "actual_price": "75"
+  },
+  {
+    "name": "Wingreens Farms Cheesy Sauce",
+    "quantity": "450 g",
+    "discounted_price": "16",
+    "actual_price": "19"
+  },
+  {
+    "name": "Britannia Classic Cheese Spread",
+    "quantity": "180 g",
+    "discounted_price": "10",
+    "actual_price": "11"
+  },
+  {
+    "name": "Dr. Oetker FunFoods Veg Cheese &amp; Chilli Sandwich Spread - Pack of 2",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "Dr. Oetker FunFoods Sandwich Spread (Veg Zucchini &amp; Bell Pepper)",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "Veeba Thousand Island Sandwich Spread",
+    "quantity": "250 g",
+    "discounted_price": "99",
+    "actual_price": "di"
+  },
+  {
+    "name": "Amul Yummy Plain Cheese Spread",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "Amul Punchy Pepper Cheese Spread",
+    "quantity": "200 g",
+    "discounted_price": "89",
+    "actual_price": "94"
+  },
+  {
+    "name": "Cremica Barbecue Sauce",
+    "quantity": "380 g",
+    "discounted_price": "17",
+    "actual_price": "di"
+  },
+  {
+    "name": "Dabur Hommade Ginger Garlic Paste",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "Catch Ginger Garlic Paste/Adrak Lehsun Paste",
+    "quantity": "200 g",
+    "discounted_price": "34",
+    "actual_price": "50"
+  },
+  {
+    "name": "Nando's Garlic Sauce",
+    "quantity": "250 g",
+    "discounted_price": "39",
+    "actual_price": "di"
+  },
+  {
+    "name": "Wingreens Farms Traditional Recipe Pizza &amp; Pasta Sauce",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "Knorr Pizza &amp; Pasta Sauce",
+    "quantity": "200 g",
+    "discounted_price": "54",
+    "actual_price": "60"
+  },
+  {
+    "name": "Veeba Pizza &amp; Pasta Sauce",
+    "quantity": "280 g",
+    "discounted_price": "81",
+    "actual_price": "89"
+  },
+  {
+    "name": "Knorr Schezwan Sauce",
+    "quantity": "200 g",
+    "discounted_price": "59",
+    "actual_price": "65"
+  },
+  {
+    "name": "Dabur Hommade Imli Sauce - Pack of 2",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "Wingreens Farms Traditional Recipe Mexican Salsa Sauce",
+    "quantity": "450 g",
+    "discounted_price": "11",
+    "actual_price": "14"
+  },
+  {
+    "name": "Dabur Hommade Made from 100% Ripe Tomatoes with No Added preservatives Tomato Puree",
+    "quantity": "",
+    "discounted_price": "/d",
+    "actual_price": "di"
+  },
+  {
+    "name": "Dabur Hommade Garlic Paste",
+    "quantity": "200 g",
+    "discounted_price": "45",
+    "actual_price": "50"
+  },
+  {
+    "name": "Dabur Hommade Coconut Milk",
+    "quantity": "200 ml",
+    "discounted_price": "69",
+    "actual_price": "75"
+  },
+  {
+    "name": "Dr. Oetker FunFoods Pizza &amp; Pasta Sauce",
+    "quantity": "325 g",
+    "discounted_price": "89",
+    "actual_price": "di"
+  },
+  {
+    "name": "Mother's Recipe Tamarind Paste",
+    "quantity": "200 g",
+    "discounted_price": "52",
+    "actual_price": "di"
+  },
+  {
+    "name": "Maggi Imli Pichkoo Sauce",
+    "quantity": "90 g",
+    "discounted_price": "22",
+    "actual_price": "di"
+  },
+  {
+    "name": "Dabur Hommade Goodness of 2 Creamy Coconuts, Coconut Milk - Pack of 2",
+    "quantity": "2 x 200 ml",
+    "discounted_price": "13",
+    "actual_price": "15"
+  },
+  {
+    "name": "Del Monte Pizza &amp; Pasta Sauce",
+    "quantity": "400 g",
+    "discounted_price": "80",
+    "actual_price": "11"
+  },
+  {
+    "name": "Dabur Hommade Ginger Paste",
+    "quantity": "200 g",
+    "discounted_price": "45",
+    "actual_price": "50"
+  },
+  {
+    "name": "Maggi Imli Pichkoo Tamarind Sauce - Pack of 2",
+    "quantity": "2 x 90 g",
+    "discounted_price": "43",
+    "actual_price": "44"
+  }
+]
